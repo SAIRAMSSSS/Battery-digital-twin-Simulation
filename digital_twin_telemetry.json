@@ -1,0 +1,10002 @@
+[
+  {
+    "timestamp": 0.0,
+    "voltage": 4.0561,
+    "current": 2.329,
+    "temp": 24.81,
+    "soc": 92.22,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 1.0,
+    "voltage": 4.0556,
+    "current": 2.4075,
+    "temp": 24.96,
+    "soc": 92.025,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 2.0,
+    "voltage": 4.0563,
+    "current": 2.4776,
+    "temp": 25.13,
+    "soc": 92.203,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 3.0,
+    "voltage": 4.0457,
+    "current": 2.4394,
+    "temp": 25.04,
+    "soc": 91.784,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 4.0,
+    "voltage": 4.0528,
+    "current": 2.4136,
+    "temp": 24.9,
+    "soc": 91.858,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 5.0,
+    "voltage": 4.0465,
+    "current": 2.4156,
+    "temp": 25.06,
+    "soc": 91.698,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 6.0,
+    "voltage": 4.0473,
+    "current": 2.2971,
+    "temp": 25.16,
+    "soc": 91.512,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 7.0,
+    "voltage": 4.0499,
+    "current": 2.4064,
+    "temp": 24.61,
+    "soc": 91.636,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 8.0,
+    "voltage": 4.0471,
+    "current": 2.3991,
+    "temp": 25.26,
+    "soc": 91.645,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 9.0,
+    "voltage": 4.0315,
+    "current": 2.5203,
+    "temp": 24.96,
+    "soc": 91.32,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 10.0,
+    "voltage": 4.0473,
+    "current": 2.4552,
+    "temp": 25.12,
+    "soc": 91.531,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 11.0,
+    "voltage": 4.0505,
+    "current": 2.2988,
+    "temp": 25.28,
+    "soc": 91.635,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 12.0,
+    "voltage": 4.0349,
+    "current": 2.4825,
+    "temp": 24.76,
+    "soc": 91.466,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 13.0,
+    "voltage": 4.0406,
+    "current": 2.3834,
+    "temp": 24.9,
+    "soc": 91.427,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 14.0,
+    "voltage": 4.0408,
+    "current": 2.3653,
+    "temp": 24.99,
+    "soc": 91.406,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 15.0,
+    "voltage": 4.0358,
+    "current": 2.4773,
+    "temp": 24.89,
+    "soc": 91.38,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 16.0,
+    "voltage": 4.0299,
+    "current": 2.4848,
+    "temp": 25.4,
+    "soc": 91.235,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 17.0,
+    "voltage": 4.0285,
+    "current": 2.4899,
+    "temp": 24.88,
+    "soc": 91.115,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 18.0,
+    "voltage": 4.0348,
+    "current": 2.3569,
+    "temp": 24.95,
+    "soc": 91.081,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 19.0,
+    "voltage": 4.0387,
+    "current": 2.4331,
+    "temp": 25.1,
+    "soc": 91.22,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 20.0,
+    "voltage": 4.0333,
+    "current": 2.469,
+    "temp": 24.83,
+    "soc": 91.243,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 21.0,
+    "voltage": 4.0264,
+    "current": 2.5188,
+    "temp": 24.99,
+    "soc": 91.159,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 22.0,
+    "voltage": 4.0345,
+    "current": 2.4189,
+    "temp": 25.14,
+    "soc": 91.207,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 23.0,
+    "voltage": 4.015,
+    "current": 2.4176,
+    "temp": 25.01,
+    "soc": 90.845,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 24.0,
+    "voltage": 4.0362,
+    "current": 2.3572,
+    "temp": 25.06,
+    "soc": 90.963,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 25.0,
+    "voltage": 4.0212,
+    "current": 2.3377,
+    "temp": 24.98,
+    "soc": 90.759,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 26.0,
+    "voltage": 4.0229,
+    "current": 2.5076,
+    "temp": 24.78,
+    "soc": 90.757,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 27.0,
+    "voltage": 4.0171,
+    "current": 2.5299,
+    "temp": 25.15,
+    "soc": 90.672,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 28.0,
+    "voltage": 4.0186,
+    "current": 2.3692,
+    "temp": 25.44,
+    "soc": 90.542,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 29.0,
+    "voltage": 4.0277,
+    "current": 2.5129,
+    "temp": 25.1,
+    "soc": 90.689,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 30.0,
+    "voltage": 4.0203,
+    "current": 2.5004,
+    "temp": 25.15,
+    "soc": 90.679,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 31.0,
+    "voltage": 4.0258,
+    "current": 2.4075,
+    "temp": 25.24,
+    "soc": 90.716,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 32.0,
+    "voltage": 4.021,
+    "current": 2.489,
+    "temp": 24.85,
+    "soc": 90.718,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 33.0,
+    "voltage": 4.0202,
+    "current": 2.5899,
+    "temp": 25.45,
+    "soc": 90.77,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 34.0,
+    "voltage": 4.021,
+    "current": 2.4353,
+    "temp": 25.16,
+    "soc": 90.741,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 35.0,
+    "voltage": 4.01,
+    "current": 2.566,
+    "temp": 25.44,
+    "soc": 90.62,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 36.0,
+    "voltage": 4.03,
+    "current": 2.2109,
+    "temp": 24.98,
+    "soc": 90.65,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 37.0,
+    "voltage": 4.0143,
+    "current": 2.4938,
+    "temp": 25.49,
+    "soc": 90.588,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 38.0,
+    "voltage": 4.01,
+    "current": 2.4583,
+    "temp": 25.28,
+    "soc": 90.461,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 39.0,
+    "voltage": 4.0158,
+    "current": 2.4421,
+    "temp": 25.24,
+    "soc": 90.442,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 40.0,
+    "voltage": 4.133,
+    "current": -1.4784,
+    "temp": 25.18,
+    "soc": 90.151,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 41.0,
+    "voltage": 4.1358,
+    "current": -1.6525,
+    "temp": 25.09,
+    "soc": 89.885,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 42.0,
+    "voltage": 4.1273,
+    "current": -1.4998,
+    "temp": 25.38,
+    "soc": 89.63,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 43.0,
+    "voltage": 4.1274,
+    "current": -1.4387,
+    "temp": 25.17,
+    "soc": 89.429,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 44.0,
+    "voltage": 4.1263,
+    "current": -1.4001,
+    "temp": 24.75,
+    "soc": 89.253,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 45.0,
+    "voltage": 4.1439,
+    "current": -1.5811,
+    "temp": 24.92,
+    "soc": 89.241,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 46.0,
+    "voltage": 4.1373,
+    "current": -1.5607,
+    "temp": 25.11,
+    "soc": 89.142,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 47.0,
+    "voltage": 4.1382,
+    "current": -1.5529,
+    "temp": 25.21,
+    "soc": 89.064,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 48.0,
+    "voltage": 4.1392,
+    "current": -1.4218,
+    "temp": 25.13,
+    "soc": 89.057,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 49.0,
+    "voltage": 4.1377,
+    "current": -1.4597,
+    "temp": 25.39,
+    "soc": 89.004,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 50.0,
+    "voltage": 4.1382,
+    "current": -1.536,
+    "temp": 24.76,
+    "soc": 88.923,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 51.0,
+    "voltage": 4.1373,
+    "current": -1.4049,
+    "temp": 25.18,
+    "soc": 88.891,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 52.0,
+    "voltage": 4.1399,
+    "current": -1.4663,
+    "temp": 24.79,
+    "soc": 88.86,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 53.0,
+    "voltage": 4.1392,
+    "current": -1.3973,
+    "temp": 25.3,
+    "soc": 88.844,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 54.0,
+    "voltage": 4.1478,
+    "current": -1.5229,
+    "temp": 25.13,
+    "soc": 88.874,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 55.0,
+    "voltage": 4.1446,
+    "current": -1.537,
+    "temp": 25.24,
+    "soc": 88.844,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 56.0,
+    "voltage": 4.1491,
+    "current": -1.4877,
+    "temp": 24.98,
+    "soc": 88.882,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 57.0,
+    "voltage": 4.1484,
+    "current": -1.6013,
+    "temp": 25.41,
+    "soc": 88.851,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 58.0,
+    "voltage": 4.1463,
+    "current": -1.4418,
+    "temp": 25.36,
+    "soc": 88.855,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 59.0,
+    "voltage": 4.1369,
+    "current": -1.4882,
+    "temp": 25.27,
+    "soc": 88.725,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 60.0,
+    "voltage": 4.153,
+    "current": -1.5207,
+    "temp": 25.13,
+    "soc": 88.781,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 61.0,
+    "voltage": 4.1515,
+    "current": -1.4806,
+    "temp": 25.27,
+    "soc": 88.817,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 62.0,
+    "voltage": 4.1583,
+    "current": -1.5861,
+    "temp": 25.01,
+    "soc": 88.873,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 63.0,
+    "voltage": 4.1375,
+    "current": -1.5385,
+    "temp": 25.33,
+    "soc": 88.703,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 64.0,
+    "voltage": 4.1631,
+    "current": -1.5314,
+    "temp": 25.49,
+    "soc": 88.837,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 65.0,
+    "voltage": 4.1538,
+    "current": -1.5183,
+    "temp": 25.37,
+    "soc": 88.844,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 66.0,
+    "voltage": 4.1595,
+    "current": -1.5249,
+    "temp": 25.01,
+    "soc": 88.9,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 67.0,
+    "voltage": 4.1483,
+    "current": -1.4089,
+    "temp": 25.23,
+    "soc": 88.864,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 68.0,
+    "voltage": 4.154,
+    "current": -1.3539,
+    "temp": 24.9,
+    "soc": 88.907,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 69.0,
+    "voltage": 4.1501,
+    "current": -1.4524,
+    "temp": 25.28,
+    "soc": 88.863,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 70.0,
+    "voltage": 4.1528,
+    "current": -1.4699,
+    "temp": 25.25,
+    "soc": 88.844,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 71.0,
+    "voltage": 4.167,
+    "current": -1.4732,
+    "temp": 24.79,
+    "soc": 88.965,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 72.0,
+    "voltage": 4.1612,
+    "current": -1.6494,
+    "temp": 24.93,
+    "soc": 88.941,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 73.0,
+    "voltage": 4.1598,
+    "current": -1.4885,
+    "temp": 25.11,
+    "soc": 88.956,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 74.0,
+    "voltage": 4.1636,
+    "current": -1.4764,
+    "temp": 25.1,
+    "soc": 89.006,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 75.0,
+    "voltage": 4.157,
+    "current": -1.3103,
+    "temp": 24.92,
+    "soc": 89.032,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 76.0,
+    "voltage": 4.1618,
+    "current": -1.4791,
+    "temp": 25.24,
+    "soc": 89.041,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 77.0,
+    "voltage": 4.1624,
+    "current": -1.471,
+    "temp": 25.22,
+    "soc": 89.053,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 78.0,
+    "voltage": 4.1739,
+    "current": -1.4908,
+    "temp": 25.13,
+    "soc": 89.162,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 79.0,
+    "voltage": 4.1648,
+    "current": -1.6006,
+    "temp": 25.02,
+    "soc": 89.128,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 80.0,
+    "voltage": 4.0813,
+    "current": 1.4302,
+    "temp": 25.38,
+    "soc": 89.267,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 81.0,
+    "voltage": 4.0855,
+    "current": 1.4582,
+    "temp": 25.5,
+    "soc": 89.43,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 82.0,
+    "voltage": 4.0848,
+    "current": 1.5264,
+    "temp": 25.07,
+    "soc": 89.581,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 83.0,
+    "voltage": 4.0881,
+    "current": 1.3497,
+    "temp": 25.05,
+    "soc": 89.683,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 84.0,
+    "voltage": 4.0795,
+    "current": 1.5145,
+    "temp": 25.27,
+    "soc": 89.743,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 85.0,
+    "voltage": 4.0759,
+    "current": 1.2841,
+    "temp": 25.1,
+    "soc": 89.697,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 86.0,
+    "voltage": 4.0846,
+    "current": 1.4503,
+    "temp": 25.14,
+    "soc": 89.789,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 87.0,
+    "voltage": 4.0664,
+    "current": 1.5917,
+    "temp": 25.32,
+    "soc": 89.749,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 88.0,
+    "voltage": 4.0798,
+    "current": 1.294,
+    "temp": 24.79,
+    "soc": 89.753,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 89.0,
+    "voltage": 4.0729,
+    "current": 1.3853,
+    "temp": 25.44,
+    "soc": 89.726,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 90.0,
+    "voltage": 4.0742,
+    "current": 1.4286,
+    "temp": 25.19,
+    "soc": 89.732,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 91.0,
+    "voltage": 4.0767,
+    "current": 1.3805,
+    "temp": 25.09,
+    "soc": 89.748,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 92.0,
+    "voltage": 4.0784,
+    "current": 1.2897,
+    "temp": 25.15,
+    "soc": 89.753,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 93.0,
+    "voltage": 4.0746,
+    "current": 1.4088,
+    "temp": 25.17,
+    "soc": 89.762,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 94.0,
+    "voltage": 4.0824,
+    "current": 1.3346,
+    "temp": 24.83,
+    "soc": 89.818,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 95.0,
+    "voltage": 4.0726,
+    "current": 1.4555,
+    "temp": 25.47,
+    "soc": 89.817,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 96.0,
+    "voltage": 4.0715,
+    "current": 1.3204,
+    "temp": 25.18,
+    "soc": 89.774,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 97.0,
+    "voltage": 4.0715,
+    "current": 1.5124,
+    "temp": 25.26,
+    "soc": 89.795,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 98.0,
+    "voltage": 4.0771,
+    "current": 1.3427,
+    "temp": 25.37,
+    "soc": 89.814,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 99.0,
+    "voltage": 4.0634,
+    "current": 1.4158,
+    "temp": 24.97,
+    "soc": 89.741,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 100.0,
+    "voltage": 4.0694,
+    "current": 1.4369,
+    "temp": 25.27,
+    "soc": 89.738,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 101.0,
+    "voltage": 4.0739,
+    "current": 1.2676,
+    "temp": 25.12,
+    "soc": 89.73,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 102.0,
+    "voltage": 4.0651,
+    "current": 1.4251,
+    "temp": 25.35,
+    "soc": 89.696,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 103.0,
+    "voltage": 4.0705,
+    "current": 1.5086,
+    "temp": 24.75,
+    "soc": 89.737,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 104.0,
+    "voltage": 4.0687,
+    "current": 1.2785,
+    "temp": 25.16,
+    "soc": 89.697,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 105.0,
+    "voltage": 4.0657,
+    "current": 1.4237,
+    "temp": 25.06,
+    "soc": 89.68,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 106.0,
+    "voltage": 4.0634,
+    "current": 1.418,
+    "temp": 25.26,
+    "soc": 89.649,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 107.0,
+    "voltage": 4.0627,
+    "current": 1.5026,
+    "temp": 25.27,
+    "soc": 89.642,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 108.0,
+    "voltage": 4.0611,
+    "current": 1.2638,
+    "temp": 25.04,
+    "soc": 89.564,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 109.0,
+    "voltage": 4.0591,
+    "current": 1.2764,
+    "temp": 25.04,
+    "soc": 89.489,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 110.0,
+    "voltage": 4.0697,
+    "current": 1.442,
+    "temp": 25.16,
+    "soc": 89.555,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 111.0,
+    "voltage": 4.0575,
+    "current": 1.3855,
+    "temp": 25.0,
+    "soc": 89.5,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 112.0,
+    "voltage": 4.0564,
+    "current": 1.4184,
+    "temp": 25.35,
+    "soc": 89.457,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 113.0,
+    "voltage": 4.0499,
+    "current": 1.472,
+    "temp": 25.11,
+    "soc": 89.386,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 114.0,
+    "voltage": 4.0592,
+    "current": 1.3489,
+    "temp": 24.6,
+    "soc": 89.369,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 115.0,
+    "voltage": 4.0534,
+    "current": 1.4271,
+    "temp": 25.11,
+    "soc": 89.331,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 116.0,
+    "voltage": 4.0676,
+    "current": 1.3947,
+    "temp": 24.98,
+    "soc": 89.401,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 117.0,
+    "voltage": 4.0662,
+    "current": 1.3302,
+    "temp": 24.86,
+    "soc": 89.431,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 118.0,
+    "voltage": 4.0516,
+    "current": 1.5427,
+    "temp": 24.94,
+    "soc": 89.399,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 119.0,
+    "voltage": 4.0689,
+    "current": 1.4328,
+    "temp": 25.21,
+    "soc": 89.476,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 120.0,
+    "voltage": 4.0401,
+    "current": 2.2628,
+    "temp": 25.45,
+    "soc": 89.528,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 121.0,
+    "voltage": 4.0286,
+    "current": 2.3925,
+    "temp": 25.25,
+    "soc": 89.518,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 122.0,
+    "voltage": 4.0205,
+    "current": 2.2203,
+    "temp": 25.07,
+    "soc": 89.411,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 123.0,
+    "voltage": 4.0397,
+    "current": 2.3952,
+    "temp": 25.28,
+    "soc": 89.509,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 124.0,
+    "voltage": 4.0196,
+    "current": 2.4312,
+    "temp": 25.1,
+    "soc": 89.452,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 125.0,
+    "voltage": 4.0219,
+    "current": 2.2889,
+    "temp": 25.06,
+    "soc": 89.389,
+    "soh": 92.086,
+    "rul_cycles": 845,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 126.0,
+    "voltage": 4.0305,
+    "current": 2.4426,
+    "temp": 24.97,
+    "soc": 89.439,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 127.0,
+    "voltage": 4.0379,
+    "current": 2.3337,
+    "temp": 24.85,
+    "soc": 89.509,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 128.0,
+    "voltage": 4.031,
+    "current": 2.3715,
+    "temp": 25.13,
+    "soc": 89.525,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 129.0,
+    "voltage": 4.0237,
+    "current": 2.4463,
+    "temp": 25.24,
+    "soc": 89.505,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 130.0,
+    "voltage": 4.0278,
+    "current": 2.3005,
+    "temp": 25.19,
+    "soc": 89.486,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 131.0,
+    "voltage": 4.0295,
+    "current": 2.2774,
+    "temp": 25.13,
+    "soc": 89.478,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 132.0,
+    "voltage": 4.0286,
+    "current": 2.2796,
+    "temp": 25.03,
+    "soc": 89.467,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 133.0,
+    "voltage": 4.0254,
+    "current": 2.2589,
+    "temp": 25.34,
+    "soc": 89.431,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 134.0,
+    "voltage": 4.0222,
+    "current": 2.3119,
+    "temp": 24.96,
+    "soc": 89.393,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 135.0,
+    "voltage": 4.0197,
+    "current": 2.3571,
+    "temp": 25.38,
+    "soc": 89.355,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 136.0,
+    "voltage": 4.0157,
+    "current": 2.3273,
+    "temp": 25.03,
+    "soc": 89.29,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 137.0,
+    "voltage": 4.0162,
+    "current": 2.4444,
+    "temp": 25.08,
+    "soc": 89.268,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 138.0,
+    "voltage": 4.0102,
+    "current": 2.2869,
+    "temp": 24.94,
+    "soc": 89.173,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 139.0,
+    "voltage": 4.0143,
+    "current": 2.4469,
+    "temp": 25.13,
+    "soc": 89.161,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 140.0,
+    "voltage": 4.013,
+    "current": 2.3554,
+    "temp": 25.43,
+    "soc": 89.121,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 141.0,
+    "voltage": 4.0052,
+    "current": 2.5438,
+    "temp": 25.34,
+    "soc": 89.077,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 142.0,
+    "voltage": 4.0155,
+    "current": 2.3713,
+    "temp": 25.44,
+    "soc": 89.074,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 143.0,
+    "voltage": 4.0242,
+    "current": 2.2485,
+    "temp": 25.35,
+    "soc": 89.104,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 144.0,
+    "voltage": 4.0218,
+    "current": 2.2358,
+    "temp": 25.03,
+    "soc": 89.108,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 145.0,
+    "voltage": 4.0053,
+    "current": 2.3989,
+    "temp": 25.19,
+    "soc": 89.034,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 146.0,
+    "voltage": 4.0092,
+    "current": 2.2529,
+    "temp": 25.1,
+    "soc": 88.968,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 147.0,
+    "voltage": 4.0162,
+    "current": 2.4215,
+    "temp": 25.52,
+    "soc": 88.999,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 148.0,
+    "voltage": 4.0065,
+    "current": 2.3283,
+    "temp": 25.02,
+    "soc": 88.936,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 149.0,
+    "voltage": 4.0109,
+    "current": 2.3135,
+    "temp": 25.44,
+    "soc": 88.912,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 150.0,
+    "voltage": 4.016,
+    "current": 2.2476,
+    "temp": 25.45,
+    "soc": 88.911,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 151.0,
+    "voltage": 4.0094,
+    "current": 2.2196,
+    "temp": 25.64,
+    "soc": 88.858,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 152.0,
+    "voltage": 4.0119,
+    "current": 2.2504,
+    "temp": 25.19,
+    "soc": 88.838,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 153.0,
+    "voltage": 4.0013,
+    "current": 2.4061,
+    "temp": 25.42,
+    "soc": 88.783,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 154.0,
+    "voltage": 4.0058,
+    "current": 2.3938,
+    "temp": 25.73,
+    "soc": 88.765,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 155.0,
+    "voltage": 4.0131,
+    "current": 2.1923,
+    "temp": 25.16,
+    "soc": 88.754,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 156.0,
+    "voltage": 4.0,
+    "current": 2.3446,
+    "temp": 24.98,
+    "soc": 88.689,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 157.0,
+    "voltage": 4.0091,
+    "current": 2.3403,
+    "temp": 24.91,
+    "soc": 88.695,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 158.0,
+    "voltage": 4.0091,
+    "current": 2.266,
+    "temp": 25.43,
+    "soc": 88.683,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 159.0,
+    "voltage": 4.0092,
+    "current": 2.3388,
+    "temp": 24.92,
+    "soc": 88.687,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 160.0,
+    "voltage": 3.9208,
+    "current": 5.4358,
+    "temp": 25.22,
+    "soc": 88.769,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 161.0,
+    "voltage": 3.9271,
+    "current": 5.368,
+    "temp": 25.4,
+    "soc": 88.859,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 162.0,
+    "voltage": 3.9156,
+    "current": 5.5209,
+    "temp": 25.36,
+    "soc": 88.886,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 163.0,
+    "voltage": 3.9104,
+    "current": 5.4873,
+    "temp": 25.43,
+    "soc": 88.867,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 164.0,
+    "voltage": 3.9101,
+    "current": 5.5518,
+    "temp": 25.4,
+    "soc": 88.863,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 165.0,
+    "voltage": 3.9103,
+    "current": 5.4992,
+    "temp": 25.63,
+    "soc": 88.851,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 166.0,
+    "voltage": 3.9114,
+    "current": 5.3131,
+    "temp": 25.2,
+    "soc": 88.81,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 167.0,
+    "voltage": 3.9086,
+    "current": 5.384,
+    "temp": 25.28,
+    "soc": 88.775,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 168.0,
+    "voltage": 3.8999,
+    "current": 5.5255,
+    "temp": 25.27,
+    "soc": 88.719,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 169.0,
+    "voltage": 3.8983,
+    "current": 5.4972,
+    "temp": 25.61,
+    "soc": 88.659,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 170.0,
+    "voltage": 3.8929,
+    "current": 5.4806,
+    "temp": 25.64,
+    "soc": 88.573,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 171.0,
+    "voltage": 3.8995,
+    "current": 5.7554,
+    "temp": 25.57,
+    "soc": 88.604,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 172.0,
+    "voltage": 3.89,
+    "current": 5.4616,
+    "temp": 25.73,
+    "soc": 88.506,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 173.0,
+    "voltage": 3.8899,
+    "current": 5.5532,
+    "temp": 25.28,
+    "soc": 88.446,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 174.0,
+    "voltage": 3.8885,
+    "current": 5.5456,
+    "temp": 25.87,
+    "soc": 88.386,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 175.0,
+    "voltage": 3.8956,
+    "current": 5.488,
+    "temp": 25.85,
+    "soc": 88.372,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 176.0,
+    "voltage": 3.8902,
+    "current": 5.4102,
+    "temp": 25.71,
+    "soc": 88.309,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 177.0,
+    "voltage": 3.894,
+    "current": 5.5146,
+    "temp": 25.94,
+    "soc": 88.303,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 178.0,
+    "voltage": 3.8863,
+    "current": 5.3745,
+    "temp": 25.27,
+    "soc": 88.219,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 179.0,
+    "voltage": 3.8884,
+    "current": 5.4266,
+    "temp": 25.51,
+    "soc": 88.175,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 180.0,
+    "voltage": 3.8819,
+    "current": 5.4609,
+    "temp": 25.49,
+    "soc": 88.103,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 181.0,
+    "voltage": 3.8942,
+    "current": 5.4476,
+    "temp": 25.8,
+    "soc": 88.12,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 182.0,
+    "voltage": 3.8712,
+    "current": 5.6234,
+    "temp": 25.46,
+    "soc": 88.02,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 183.0,
+    "voltage": 3.8864,
+    "current": 5.2816,
+    "temp": 25.84,
+    "soc": 87.966,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 184.0,
+    "voltage": 3.8811,
+    "current": 5.5207,
+    "temp": 25.98,
+    "soc": 87.935,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 185.0,
+    "voltage": 3.8837,
+    "current": 5.3137,
+    "temp": 25.86,
+    "soc": 87.883,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 186.0,
+    "voltage": 3.8769,
+    "current": 5.3932,
+    "temp": 25.8,
+    "soc": 87.812,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 187.0,
+    "voltage": 3.8725,
+    "current": 5.5673,
+    "temp": 25.56,
+    "soc": 87.759,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 188.0,
+    "voltage": 3.8742,
+    "current": 5.4878,
+    "temp": 25.61,
+    "soc": 87.709,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 189.0,
+    "voltage": 3.8745,
+    "current": 5.346,
+    "temp": 26.04,
+    "soc": 87.64,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 190.0,
+    "voltage": 3.8781,
+    "current": 5.3433,
+    "temp": 25.97,
+    "soc": 87.603,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 191.0,
+    "voltage": 3.88,
+    "current": 5.5268,
+    "temp": 25.82,
+    "soc": 87.619,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 192.0,
+    "voltage": 3.868,
+    "current": 5.3717,
+    "temp": 25.76,
+    "soc": 87.523,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 193.0,
+    "voltage": 3.8607,
+    "current": 5.4843,
+    "temp": 25.46,
+    "soc": 87.419,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 194.0,
+    "voltage": 3.8663,
+    "current": 5.4016,
+    "temp": 25.67,
+    "soc": 87.351,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 195.0,
+    "voltage": 3.88,
+    "current": 5.4174,
+    "temp": 26.28,
+    "soc": 87.382,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 196.0,
+    "voltage": 3.8558,
+    "current": 5.5884,
+    "temp": 25.66,
+    "soc": 87.285,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 197.0,
+    "voltage": 3.8701,
+    "current": 5.5162,
+    "temp": 25.98,
+    "soc": 87.279,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 198.0,
+    "voltage": 3.875,
+    "current": 5.2855,
+    "temp": 26.16,
+    "soc": 87.256,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 199.0,
+    "voltage": 3.8579,
+    "current": 5.4383,
+    "temp": 25.72,
+    "soc": 87.157,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 200.0,
+    "voltage": 3.9457,
+    "current": 2.3978,
+    "temp": 26.03,
+    "soc": 87.027,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 201.0,
+    "voltage": 3.9481,
+    "current": 2.5462,
+    "temp": 26.18,
+    "soc": 86.959,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 202.0,
+    "voltage": 3.942,
+    "current": 2.4001,
+    "temp": 26.0,
+    "soc": 86.829,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 203.0,
+    "voltage": 3.9418,
+    "current": 2.4663,
+    "temp": 26.58,
+    "soc": 86.729,
+    "soh": 92.086,
+    "rul_cycles": 843,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 204.0,
+    "voltage": 3.9389,
+    "current": 2.5507,
+    "temp": 25.68,
+    "soc": 86.638,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 205.0,
+    "voltage": 3.9363,
+    "current": 2.491,
+    "temp": 26.23,
+    "soc": 86.529,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 206.0,
+    "voltage": 3.9429,
+    "current": 2.4053,
+    "temp": 25.99,
+    "soc": 86.458,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 207.0,
+    "voltage": 3.9384,
+    "current": 2.4367,
+    "temp": 26.18,
+    "soc": 86.37,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 208.0,
+    "voltage": 3.9453,
+    "current": 2.4004,
+    "temp": 26.12,
+    "soc": 86.328,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 209.0,
+    "voltage": 3.942,
+    "current": 2.3754,
+    "temp": 25.89,
+    "soc": 86.26,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 210.0,
+    "voltage": 3.942,
+    "current": 2.5974,
+    "temp": 26.08,
+    "soc": 86.241,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 211.0,
+    "voltage": 3.9362,
+    "current": 2.5163,
+    "temp": 25.67,
+    "soc": 86.168,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 212.0,
+    "voltage": 3.9494,
+    "current": 2.3568,
+    "temp": 26.16,
+    "soc": 86.151,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 213.0,
+    "voltage": 3.9475,
+    "current": 2.5721,
+    "temp": 26.11,
+    "soc": 86.16,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 214.0,
+    "voltage": 3.9309,
+    "current": 2.5944,
+    "temp": 26.18,
+    "soc": 86.064,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 215.0,
+    "voltage": 3.9452,
+    "current": 2.5432,
+    "temp": 26.27,
+    "soc": 86.056,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 216.0,
+    "voltage": 3.9551,
+    "current": 2.308,
+    "temp": 26.13,
+    "soc": 86.059,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 217.0,
+    "voltage": 3.9409,
+    "current": 2.4312,
+    "temp": 26.09,
+    "soc": 85.991,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 218.0,
+    "voltage": 3.9517,
+    "current": 2.5844,
+    "temp": 25.89,
+    "soc": 86.025,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 219.0,
+    "voltage": 3.9498,
+    "current": 2.3938,
+    "temp": 25.93,
+    "soc": 85.999,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 220.0,
+    "voltage": 3.9418,
+    "current": 2.4313,
+    "temp": 26.31,
+    "soc": 85.929,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 221.0,
+    "voltage": 3.9444,
+    "current": 2.5278,
+    "temp": 26.36,
+    "soc": 85.901,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 222.0,
+    "voltage": 3.9512,
+    "current": 2.3976,
+    "temp": 26.03,
+    "soc": 85.888,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 223.0,
+    "voltage": 3.9471,
+    "current": 2.4662,
+    "temp": 26.09,
+    "soc": 85.859,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 224.0,
+    "voltage": 3.9564,
+    "current": 2.2325,
+    "temp": 25.9,
+    "soc": 85.842,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 225.0,
+    "voltage": 3.9445,
+    "current": 2.3522,
+    "temp": 26.32,
+    "soc": 85.773,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 226.0,
+    "voltage": 3.9483,
+    "current": 2.4577,
+    "temp": 26.22,
+    "soc": 85.753,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 227.0,
+    "voltage": 3.9426,
+    "current": 2.3909,
+    "temp": 26.48,
+    "soc": 85.684,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 228.0,
+    "voltage": 3.943,
+    "current": 2.547,
+    "temp": 25.92,
+    "soc": 85.654,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 229.0,
+    "voltage": 3.9456,
+    "current": 2.3545,
+    "temp": 26.02,
+    "soc": 85.603,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 230.0,
+    "voltage": 3.9444,
+    "current": 2.4131,
+    "temp": 26.14,
+    "soc": 85.559,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 231.0,
+    "voltage": 3.953,
+    "current": 2.4693,
+    "temp": 26.23,
+    "soc": 85.58,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 232.0,
+    "voltage": 3.9495,
+    "current": 2.5849,
+    "temp": 26.06,
+    "soc": 85.592,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 233.0,
+    "voltage": 3.9533,
+    "current": 2.3338,
+    "temp": 25.93,
+    "soc": 85.573,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 234.0,
+    "voltage": 3.9391,
+    "current": 2.537,
+    "temp": 26.28,
+    "soc": 85.504,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 235.0,
+    "voltage": 3.9455,
+    "current": 2.4626,
+    "temp": 26.25,
+    "soc": 85.467,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 236.0,
+    "voltage": 3.9552,
+    "current": 2.3552,
+    "temp": 25.93,
+    "soc": 85.47,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 237.0,
+    "voltage": 3.9467,
+    "current": 2.4707,
+    "temp": 26.38,
+    "soc": 85.437,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 238.0,
+    "voltage": 3.9581,
+    "current": 2.4938,
+    "temp": 26.35,
+    "soc": 85.478,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 239.0,
+    "voltage": 3.9502,
+    "current": 2.3841,
+    "temp": 26.14,
+    "soc": 85.439,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 240.0,
+    "voltage": 4.0727,
+    "current": -2.1168,
+    "temp": 26.13,
+    "soc": 85.29,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 241.0,
+    "voltage": 4.0735,
+    "current": -2.1583,
+    "temp": 26.23,
+    "soc": 85.156,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 242.0,
+    "voltage": 4.0769,
+    "current": -2.1731,
+    "temp": 25.95,
+    "soc": 85.053,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 243.0,
+    "voltage": 4.0765,
+    "current": -2.103,
+    "temp": 26.12,
+    "soc": 84.97,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 244.0,
+    "voltage": 4.0809,
+    "current": -1.9823,
+    "temp": 25.69,
+    "soc": 84.942,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 245.0,
+    "voltage": 4.0903,
+    "current": -2.2626,
+    "temp": 26.29,
+    "soc": 84.913,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 246.0,
+    "voltage": 4.0764,
+    "current": -1.98,
+    "temp": 25.81,
+    "soc": 84.85,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 247.0,
+    "voltage": 4.0845,
+    "current": -2.2836,
+    "temp": 26.42,
+    "soc": 84.781,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 248.0,
+    "voltage": 4.0801,
+    "current": -2.1316,
+    "temp": 26.05,
+    "soc": 84.717,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 249.0,
+    "voltage": 4.0921,
+    "current": -2.0982,
+    "temp": 26.07,
+    "soc": 84.734,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 250.0,
+    "voltage": 4.0865,
+    "current": -2.1315,
+    "temp": 25.99,
+    "soc": 84.699,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 251.0,
+    "voltage": 4.0851,
+    "current": -2.1533,
+    "temp": 26.06,
+    "soc": 84.649,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 252.0,
+    "voltage": 4.0987,
+    "current": -2.1122,
+    "temp": 26.4,
+    "soc": 84.689,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 253.0,
+    "voltage": 4.1116,
+    "current": -2.154,
+    "temp": 25.62,
+    "soc": 84.783,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 254.0,
+    "voltage": 4.1011,
+    "current": -2.184,
+    "temp": 26.37,
+    "soc": 84.784,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 255.0,
+    "voltage": 4.1038,
+    "current": -2.0913,
+    "temp": 26.18,
+    "soc": 84.811,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 256.0,
+    "voltage": 4.1027,
+    "current": -2.1312,
+    "temp": 25.87,
+    "soc": 84.811,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 257.0,
+    "voltage": 4.1057,
+    "current": -2.1814,
+    "temp": 25.89,
+    "soc": 84.814,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 258.0,
+    "voltage": 4.1089,
+    "current": -2.0566,
+    "temp": 26.44,
+    "soc": 84.851,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 259.0,
+    "voltage": 4.1056,
+    "current": -2.0794,
+    "temp": 25.91,
+    "soc": 84.851,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 260.0,
+    "voltage": 4.1088,
+    "current": -2.0577,
+    "temp": 25.87,
+    "soc": 84.868,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 261.0,
+    "voltage": 4.1109,
+    "current": -2.1262,
+    "temp": 26.33,
+    "soc": 84.876,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 262.0,
+    "voltage": 4.1105,
+    "current": -2.179,
+    "temp": 26.17,
+    "soc": 84.865,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 263.0,
+    "voltage": 4.1197,
+    "current": -2.2088,
+    "temp": 25.91,
+    "soc": 84.899,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 264.0,
+    "voltage": 4.1124,
+    "current": -2.0888,
+    "temp": 26.14,
+    "soc": 84.9,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 265.0,
+    "voltage": 4.1111,
+    "current": -2.0839,
+    "temp": 25.89,
+    "soc": 84.889,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 266.0,
+    "voltage": 4.1202,
+    "current": -2.0908,
+    "temp": 26.31,
+    "soc": 84.927,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 267.0,
+    "voltage": 4.1141,
+    "current": -2.0519,
+    "temp": 26.3,
+    "soc": 84.925,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 268.0,
+    "voltage": 4.1174,
+    "current": -2.0216,
+    "temp": 26.19,
+    "soc": 84.943,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 269.0,
+    "voltage": 4.1225,
+    "current": -2.1909,
+    "temp": 26.16,
+    "soc": 84.953,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 270.0,
+    "voltage": 4.1267,
+    "current": -2.0819,
+    "temp": 26.44,
+    "soc": 85.001,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 271.0,
+    "voltage": 4.1265,
+    "current": -2.133,
+    "temp": 26.08,
+    "soc": 85.025,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 272.0,
+    "voltage": 4.1252,
+    "current": -2.1645,
+    "temp": 25.84,
+    "soc": 85.028,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 273.0,
+    "voltage": 4.1277,
+    "current": -2.0062,
+    "temp": 26.17,
+    "soc": 85.071,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 274.0,
+    "voltage": 4.1322,
+    "current": -2.0672,
+    "temp": 26.49,
+    "soc": 85.117,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 275.0,
+    "voltage": 4.1291,
+    "current": -2.0615,
+    "temp": 25.87,
+    "soc": 85.135,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 276.0,
+    "voltage": 4.1263,
+    "current": -2.0179,
+    "temp": 26.0,
+    "soc": 85.137,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 277.0,
+    "voltage": 4.1235,
+    "current": -2.1268,
+    "temp": 26.15,
+    "soc": 85.1,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 278.0,
+    "voltage": 4.1243,
+    "current": -2.0635,
+    "temp": 26.06,
+    "soc": 85.083,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 279.0,
+    "voltage": 4.1313,
+    "current": -2.1793,
+    "temp": 25.87,
+    "soc": 85.086,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 280.0,
+    "voltage": 4.032,
+    "current": 1.4504,
+    "temp": 26.29,
+    "soc": 85.164,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 281.0,
+    "voltage": 4.0342,
+    "current": 1.4005,
+    "temp": 26.53,
+    "soc": 85.233,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 282.0,
+    "voltage": 4.0341,
+    "current": 1.4572,
+    "temp": 26.1,
+    "soc": 85.299,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 283.0,
+    "voltage": 4.0345,
+    "current": 1.5055,
+    "temp": 25.87,
+    "soc": 85.366,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 284.0,
+    "voltage": 4.0338,
+    "current": 1.3844,
+    "temp": 25.74,
+    "soc": 85.395,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 285.0,
+    "voltage": 4.0294,
+    "current": 1.6477,
+    "temp": 26.1,
+    "soc": 85.442,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 286.0,
+    "voltage": 4.0332,
+    "current": 1.3578,
+    "temp": 26.27,
+    "soc": 85.452,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 287.0,
+    "voltage": 4.0227,
+    "current": 1.358,
+    "temp": 26.14,
+    "soc": 85.399,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 288.0,
+    "voltage": 4.022,
+    "current": 1.5038,
+    "temp": 26.04,
+    "soc": 85.379,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 289.0,
+    "voltage": 4.026,
+    "current": 1.4921,
+    "temp": 25.92,
+    "soc": 85.385,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 290.0,
+    "voltage": 4.0203,
+    "current": 1.5057,
+    "temp": 25.82,
+    "soc": 85.36,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 291.0,
+    "voltage": 4.0286,
+    "current": 1.5099,
+    "temp": 26.2,
+    "soc": 85.389,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 292.0,
+    "voltage": 4.0339,
+    "current": 1.4301,
+    "temp": 26.21,
+    "soc": 85.43,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 293.0,
+    "voltage": 4.0336,
+    "current": 1.3649,
+    "temp": 25.72,
+    "soc": 85.451,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 294.0,
+    "voltage": 4.0237,
+    "current": 1.4065,
+    "temp": 26.34,
+    "soc": 85.419,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 295.0,
+    "voltage": 4.0332,
+    "current": 1.3753,
+    "temp": 26.13,
+    "soc": 85.444,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 296.0,
+    "voltage": 4.0222,
+    "current": 1.5387,
+    "temp": 26.3,
+    "soc": 85.43,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 297.0,
+    "voltage": 4.0216,
+    "current": 1.441,
+    "temp": 25.74,
+    "soc": 85.398,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 298.0,
+    "voltage": 4.0211,
+    "current": 1.3849,
+    "temp": 25.74,
+    "soc": 85.359,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 299.0,
+    "voltage": 4.0209,
+    "current": 1.414,
+    "temp": 25.98,
+    "soc": 85.332,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 300.0,
+    "voltage": 4.0183,
+    "current": 1.4716,
+    "temp": 26.11,
+    "soc": 85.306,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 301.0,
+    "voltage": 4.0226,
+    "current": 1.3768,
+    "temp": 26.36,
+    "soc": 85.292,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 302.0,
+    "voltage": 4.0226,
+    "current": 1.3901,
+    "temp": 26.14,
+    "soc": 85.283,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 303.0,
+    "voltage": 4.019,
+    "current": 1.4684,
+    "temp": 25.95,
+    "soc": 85.27,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 304.0,
+    "voltage": 4.0206,
+    "current": 1.4703,
+    "temp": 25.79,
+    "soc": 85.268,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 305.0,
+    "voltage": 4.0254,
+    "current": 1.3847,
+    "temp": 26.24,
+    "soc": 85.28,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 306.0,
+    "voltage": 4.0236,
+    "current": 1.3469,
+    "temp": 25.79,
+    "soc": 85.272,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 307.0,
+    "voltage": 4.0094,
+    "current": 1.4844,
+    "temp": 26.31,
+    "soc": 85.208,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 308.0,
+    "voltage": 4.0072,
+    "current": 1.3106,
+    "temp": 25.93,
+    "soc": 85.111,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 309.0,
+    "voltage": 4.0241,
+    "current": 1.3043,
+    "temp": 26.3,
+    "soc": 85.128,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 310.0,
+    "voltage": 4.0106,
+    "current": 1.3983,
+    "temp": 26.11,
+    "soc": 85.081,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 311.0,
+    "voltage": 4.0148,
+    "current": 1.4115,
+    "temp": 25.95,
+    "soc": 85.068,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 312.0,
+    "voltage": 4.0084,
+    "current": 1.4898,
+    "temp": 25.87,
+    "soc": 85.033,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 313.0,
+    "voltage": 4.0022,
+    "current": 1.5719,
+    "temp": 25.9,
+    "soc": 84.983,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 314.0,
+    "voltage": 4.0148,
+    "current": 1.5241,
+    "temp": 26.05,
+    "soc": 85.007,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 315.0,
+    "voltage": 4.0176,
+    "current": 1.3915,
+    "temp": 25.98,
+    "soc": 85.017,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 316.0,
+    "voltage": 4.0101,
+    "current": 1.4672,
+    "temp": 25.84,
+    "soc": 84.996,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 317.0,
+    "voltage": 4.0018,
+    "current": 1.3648,
+    "temp": 25.93,
+    "soc": 84.911,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 318.0,
+    "voltage": 4.0095,
+    "current": 1.4277,
+    "temp": 25.97,
+    "soc": 84.896,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 319.0,
+    "voltage": 4.0143,
+    "current": 1.4189,
+    "temp": 25.53,
+    "soc": 84.909,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 320.0,
+    "voltage": 3.9911,
+    "current": 1.8636,
+    "temp": 26.04,
+    "soc": 84.865,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 321.0,
+    "voltage": 4.0012,
+    "current": 1.8262,
+    "temp": 25.75,
+    "soc": 84.879,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 322.0,
+    "voltage": 3.9967,
+    "current": 1.898,
+    "temp": 25.72,
+    "soc": 84.878,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 323.0,
+    "voltage": 3.9968,
+    "current": 1.971,
+    "temp": 25.61,
+    "soc": 84.89,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 324.0,
+    "voltage": 3.9974,
+    "current": 1.8354,
+    "temp": 25.59,
+    "soc": 84.878,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 325.0,
+    "voltage": 3.9902,
+    "current": 1.9421,
+    "temp": 25.67,
+    "soc": 84.845,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 326.0,
+    "voltage": 3.9999,
+    "current": 1.9217,
+    "temp": 25.8,
+    "soc": 84.871,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 327.0,
+    "voltage": 3.9948,
+    "current": 1.8884,
+    "temp": 26.33,
+    "soc": 84.855,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 328.0,
+    "voltage": 3.9936,
+    "current": 1.8867,
+    "temp": 25.83,
+    "soc": 84.835,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 329.0,
+    "voltage": 3.9889,
+    "current": 1.8405,
+    "temp": 25.97,
+    "soc": 84.782,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 330.0,
+    "voltage": 3.9906,
+    "current": 1.8621,
+    "temp": 26.02,
+    "soc": 84.752,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 331.0,
+    "voltage": 3.9898,
+    "current": 1.8512,
+    "temp": 25.96,
+    "soc": 84.719,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 332.0,
+    "voltage": 3.9911,
+    "current": 1.8802,
+    "temp": 25.92,
+    "soc": 84.705,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 333.0,
+    "voltage": 3.9989,
+    "current": 1.9083,
+    "temp": 25.69,
+    "soc": 84.742,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 334.0,
+    "voltage": 3.9809,
+    "current": 2.0023,
+    "temp": 26.22,
+    "soc": 84.684,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 335.0,
+    "voltage": 3.9802,
+    "current": 1.9715,
+    "temp": 26.29,
+    "soc": 84.626,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 336.0,
+    "voltage": 3.9925,
+    "current": 2.0824,
+    "temp": 25.59,
+    "soc": 84.669,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 337.0,
+    "voltage": 3.9898,
+    "current": 1.857,
+    "temp": 25.72,
+    "soc": 84.647,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 338.0,
+    "voltage": 3.9835,
+    "current": 1.943,
+    "temp": 25.87,
+    "soc": 84.607,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 339.0,
+    "voltage": 3.993,
+    "current": 1.8637,
+    "temp": 25.73,
+    "soc": 84.614,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 340.0,
+    "voltage": 3.9799,
+    "current": 2.047,
+    "temp": 26.02,
+    "soc": 84.576,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 341.0,
+    "voltage": 3.9981,
+    "current": 1.824,
+    "temp": 25.78,
+    "soc": 84.609,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 342.0,
+    "voltage": 3.992,
+    "current": 1.7909,
+    "temp": 26.35,
+    "soc": 84.594,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 343.0,
+    "voltage": 3.9852,
+    "current": 1.8103,
+    "temp": 26.16,
+    "soc": 84.544,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 344.0,
+    "voltage": 4.0013,
+    "current": 1.7209,
+    "temp": 25.96,
+    "soc": 84.58,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 345.0,
+    "voltage": 3.9837,
+    "current": 1.8389,
+    "temp": 26.12,
+    "soc": 84.527,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 346.0,
+    "voltage": 3.9905,
+    "current": 1.8223,
+    "temp": 26.14,
+    "soc": 84.519,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 347.0,
+    "voltage": 3.9859,
+    "current": 1.8753,
+    "temp": 25.8,
+    "soc": 84.493,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 348.0,
+    "voltage": 3.99,
+    "current": 1.9038,
+    "temp": 25.75,
+    "soc": 84.501,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 349.0,
+    "voltage": 3.9876,
+    "current": 2.0092,
+    "temp": 25.93,
+    "soc": 84.51,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 350.0,
+    "voltage": 3.9814,
+    "current": 1.9805,
+    "temp": 26.08,
+    "soc": 84.476,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 351.0,
+    "voltage": 3.9804,
+    "current": 1.8619,
+    "temp": 25.94,
+    "soc": 84.42,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 352.0,
+    "voltage": 3.9868,
+    "current": 1.7642,
+    "temp": 25.59,
+    "soc": 84.392,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 353.0,
+    "voltage": 3.9777,
+    "current": 1.8983,
+    "temp": 25.75,
+    "soc": 84.339,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 354.0,
+    "voltage": 3.9947,
+    "current": 1.7392,
+    "temp": 25.89,
+    "soc": 84.364,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 355.0,
+    "voltage": 3.9781,
+    "current": 2.0124,
+    "temp": 25.89,
+    "soc": 84.336,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 356.0,
+    "voltage": 3.9765,
+    "current": 1.9745,
+    "temp": 26.3,
+    "soc": 84.295,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 357.0,
+    "voltage": 3.9824,
+    "current": 1.8084,
+    "temp": 25.63,
+    "soc": 84.265,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 358.0,
+    "voltage": 3.9771,
+    "current": 1.7221,
+    "temp": 26.01,
+    "soc": 84.192,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 359.0,
+    "voltage": 3.972,
+    "current": 1.9654,
+    "temp": 26.2,
+    "soc": 84.145,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 360.0,
+    "voltage": 3.9195,
+    "current": 4.2969,
+    "temp": 26.36,
+    "soc": 84.218,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 361.0,
+    "voltage": 3.9057,
+    "current": 4.4016,
+    "temp": 25.83,
+    "soc": 84.217,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 362.0,
+    "voltage": 3.9083,
+    "current": 4.1553,
+    "temp": 26.02,
+    "soc": 84.187,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 363.0,
+    "voltage": 3.9126,
+    "current": 4.2574,
+    "temp": 26.04,
+    "soc": 84.205,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 364.0,
+    "voltage": 3.913,
+    "current": 4.2876,
+    "temp": 25.97,
+    "soc": 84.228,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 365.0,
+    "voltage": 3.9091,
+    "current": 4.2978,
+    "temp": 25.92,
+    "soc": 84.225,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 366.0,
+    "voltage": 3.9101,
+    "current": 4.3067,
+    "temp": 26.03,
+    "soc": 84.231,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 367.0,
+    "voltage": 3.8976,
+    "current": 4.3842,
+    "temp": 25.45,
+    "soc": 84.177,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 368.0,
+    "voltage": 3.8965,
+    "current": 4.183,
+    "temp": 26.1,
+    "soc": 84.09,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 369.0,
+    "voltage": 3.9078,
+    "current": 4.3102,
+    "temp": 25.99,
+    "soc": 84.107,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 370.0,
+    "voltage": 3.8967,
+    "current": 4.3308,
+    "temp": 25.93,
+    "soc": 84.06,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 371.0,
+    "voltage": 3.8949,
+    "current": 4.3133,
+    "temp": 26.39,
+    "soc": 84.008,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 372.0,
+    "voltage": 3.901,
+    "current": 4.3783,
+    "temp": 25.86,
+    "soc": 84.011,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 373.0,
+    "voltage": 3.8998,
+    "current": 4.2494,
+    "temp": 25.92,
+    "soc": 83.984,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 374.0,
+    "voltage": 3.899,
+    "current": 4.1501,
+    "temp": 26.41,
+    "soc": 83.938,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 375.0,
+    "voltage": 3.9002,
+    "current": 4.3802,
+    "temp": 25.85,
+    "soc": 83.948,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 376.0,
+    "voltage": 3.8869,
+    "current": 4.3529,
+    "temp": 25.91,
+    "soc": 83.873,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 377.0,
+    "voltage": 3.8959,
+    "current": 4.2478,
+    "temp": 26.0,
+    "soc": 83.845,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 378.0,
+    "voltage": 3.8854,
+    "current": 4.4388,
+    "temp": 26.21,
+    "soc": 83.793,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 379.0,
+    "voltage": 3.8883,
+    "current": 4.3186,
+    "temp": 26.09,
+    "soc": 83.746,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 380.0,
+    "voltage": 3.8911,
+    "current": 4.405,
+    "temp": 25.8,
+    "soc": 83.737,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 381.0,
+    "voltage": 3.8873,
+    "current": 4.2731,
+    "temp": 25.96,
+    "soc": 83.684,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 382.0,
+    "voltage": 3.8819,
+    "current": 4.4919,
+    "temp": 25.95,
+    "soc": 83.646,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 383.0,
+    "voltage": 3.8841,
+    "current": 4.4705,
+    "temp": 26.07,
+    "soc": 83.623,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 384.0,
+    "voltage": 3.8801,
+    "current": 4.2752,
+    "temp": 26.18,
+    "soc": 83.544,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 385.0,
+    "voltage": 3.874,
+    "current": 4.3775,
+    "temp": 26.18,
+    "soc": 83.461,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 386.0,
+    "voltage": 3.8726,
+    "current": 4.3142,
+    "temp": 25.75,
+    "soc": 83.372,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 387.0,
+    "voltage": 3.8653,
+    "current": 4.4232,
+    "temp": 26.33,
+    "soc": 83.275,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 388.0,
+    "voltage": 3.8894,
+    "current": 4.238,
+    "temp": 26.18,
+    "soc": 83.299,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 389.0,
+    "voltage": 3.8691,
+    "current": 4.3542,
+    "temp": 26.41,
+    "soc": 83.219,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 390.0,
+    "voltage": 3.8717,
+    "current": 4.4137,
+    "temp": 26.23,
+    "soc": 83.178,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 391.0,
+    "voltage": 3.8765,
+    "current": 4.1518,
+    "temp": 26.37,
+    "soc": 83.122,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 392.0,
+    "voltage": 3.8772,
+    "current": 4.2203,
+    "temp": 26.25,
+    "soc": 83.09,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 393.0,
+    "voltage": 3.8807,
+    "current": 4.1122,
+    "temp": 26.44,
+    "soc": 83.062,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 394.0,
+    "voltage": 3.8762,
+    "current": 4.2787,
+    "temp": 26.28,
+    "soc": 83.04,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 395.0,
+    "voltage": 3.8659,
+    "current": 4.3539,
+    "temp": 26.17,
+    "soc": 82.973,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 396.0,
+    "voltage": 3.8654,
+    "current": 4.4267,
+    "temp": 26.65,
+    "soc": 82.925,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 397.0,
+    "voltage": 3.8697,
+    "current": 4.2976,
+    "temp": 26.38,
+    "soc": 82.885,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 398.0,
+    "voltage": 3.8628,
+    "current": 4.4279,
+    "temp": 26.33,
+    "soc": 82.832,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 399.0,
+    "voltage": 3.8776,
+    "current": 4.2111,
+    "temp": 25.97,
+    "soc": 82.833,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 400.0,
+    "voltage": 3.8832,
+    "current": 3.7364,
+    "temp": 25.97,
+    "soc": 82.779,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 401.0,
+    "voltage": 3.8803,
+    "current": 3.839,
+    "temp": 26.29,
+    "soc": 82.733,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 402.0,
+    "voltage": 3.8783,
+    "current": 3.9581,
+    "temp": 26.27,
+    "soc": 82.701,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 403.0,
+    "voltage": 3.8811,
+    "current": 3.9155,
+    "temp": 26.13,
+    "soc": 82.68,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 404.0,
+    "voltage": 3.8799,
+    "current": 3.6859,
+    "temp": 26.29,
+    "soc": 82.611,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 405.0,
+    "voltage": 3.8677,
+    "current": 3.8937,
+    "temp": 26.58,
+    "soc": 82.518,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 406.0,
+    "voltage": 3.8781,
+    "current": 3.7667,
+    "temp": 26.41,
+    "soc": 82.475,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 407.0,
+    "voltage": 3.868,
+    "current": 3.9438,
+    "temp": 26.05,
+    "soc": 82.409,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 408.0,
+    "voltage": 3.8686,
+    "current": 3.9203,
+    "temp": 26.26,
+    "soc": 82.351,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 409.0,
+    "voltage": 3.8764,
+    "current": 3.8026,
+    "temp": 26.13,
+    "soc": 82.323,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 410.0,
+    "voltage": 3.8782,
+    "current": 3.8229,
+    "temp": 26.22,
+    "soc": 82.31,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 411.0,
+    "voltage": 3.8727,
+    "current": 3.7816,
+    "temp": 26.22,
+    "soc": 82.257,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 412.0,
+    "voltage": 3.8714,
+    "current": 3.8557,
+    "temp": 26.22,
+    "soc": 82.215,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 413.0,
+    "voltage": 3.8755,
+    "current": 3.9392,
+    "temp": 26.07,
+    "soc": 82.214,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 414.0,
+    "voltage": 3.8718,
+    "current": 3.8031,
+    "temp": 26.3,
+    "soc": 82.165,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 415.0,
+    "voltage": 3.8798,
+    "current": 3.906,
+    "temp": 26.22,
+    "soc": 82.184,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 416.0,
+    "voltage": 3.8712,
+    "current": 3.8582,
+    "temp": 25.75,
+    "soc": 82.138,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 417.0,
+    "voltage": 3.8596,
+    "current": 3.8574,
+    "temp": 26.76,
+    "soc": 82.03,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 418.0,
+    "voltage": 3.8701,
+    "current": 3.8605,
+    "temp": 26.57,
+    "soc": 81.998,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 419.0,
+    "voltage": 3.8697,
+    "current": 3.8068,
+    "temp": 26.28,
+    "soc": 81.956,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 420.0,
+    "voltage": 3.8726,
+    "current": 3.8518,
+    "temp": 26.37,
+    "soc": 81.942,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 421.0,
+    "voltage": 3.8704,
+    "current": 3.7996,
+    "temp": 26.14,
+    "soc": 81.904,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 422.0,
+    "voltage": 3.8589,
+    "current": 4.0427,
+    "temp": 26.72,
+    "soc": 81.846,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 423.0,
+    "voltage": 3.857,
+    "current": 3.905,
+    "temp": 26.77,
+    "soc": 81.759,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 424.0,
+    "voltage": 3.8631,
+    "current": 3.8397,
+    "temp": 26.42,
+    "soc": 81.707,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 425.0,
+    "voltage": 3.8574,
+    "current": 3.8698,
+    "temp": 26.6,
+    "soc": 81.632,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 426.0,
+    "voltage": 3.8589,
+    "current": 3.8964,
+    "temp": 26.44,
+    "soc": 81.58,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 427.0,
+    "voltage": 3.8644,
+    "current": 3.8881,
+    "temp": 26.15,
+    "soc": 81.563,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 428.0,
+    "voltage": 3.8674,
+    "current": 3.9137,
+    "temp": 26.34,
+    "soc": 81.566,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 429.0,
+    "voltage": 3.8602,
+    "current": 3.9452,
+    "temp": 26.45,
+    "soc": 81.529,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 430.0,
+    "voltage": 3.8544,
+    "current": 3.8583,
+    "temp": 26.34,
+    "soc": 81.445,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 431.0,
+    "voltage": 3.8622,
+    "current": 3.8323,
+    "temp": 26.4,
+    "soc": 81.412,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 432.0,
+    "voltage": 3.8647,
+    "current": 3.8884,
+    "temp": 26.43,
+    "soc": 81.404,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 433.0,
+    "voltage": 3.8595,
+    "current": 3.7586,
+    "temp": 26.44,
+    "soc": 81.341,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 434.0,
+    "voltage": 3.8598,
+    "current": 3.7427,
+    "temp": 26.47,
+    "soc": 81.284,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 435.0,
+    "voltage": 3.8538,
+    "current": 3.9584,
+    "temp": 26.25,
+    "soc": 81.235,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 436.0,
+    "voltage": 3.8486,
+    "current": 4.0228,
+    "temp": 26.33,
+    "soc": 81.173,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 437.0,
+    "voltage": 3.8592,
+    "current": 3.8817,
+    "temp": 26.22,
+    "soc": 81.153,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 438.0,
+    "voltage": 3.8531,
+    "current": 3.924,
+    "temp": 26.68,
+    "soc": 81.104,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 439.0,
+    "voltage": 3.8558,
+    "current": 3.9448,
+    "temp": 26.07,
+    "soc": 81.079,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 440.0,
+    "voltage": 3.9022,
+    "current": 1.8891,
+    "temp": 26.73,
+    "soc": 80.958,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 441.0,
+    "voltage": 3.9091,
+    "current": 1.7832,
+    "temp": 26.78,
+    "soc": 80.872,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 442.0,
+    "voltage": 3.9181,
+    "current": 1.6509,
+    "temp": 26.44,
+    "soc": 80.824,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 443.0,
+    "voltage": 3.915,
+    "current": 1.6428,
+    "temp": 25.98,
+    "soc": 80.759,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 444.0,
+    "voltage": 3.9275,
+    "current": 1.5976,
+    "temp": 26.43,
+    "soc": 80.762,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 445.0,
+    "voltage": 3.9135,
+    "current": 1.6734,
+    "temp": 26.49,
+    "soc": 80.692,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 446.0,
+    "voltage": 3.9192,
+    "current": 1.602,
+    "temp": 26.3,
+    "soc": 80.647,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 447.0,
+    "voltage": 3.9246,
+    "current": 1.584,
+    "temp": 26.39,
+    "soc": 80.632,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 448.0,
+    "voltage": 3.9117,
+    "current": 1.6149,
+    "temp": 26.8,
+    "soc": 80.544,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 449.0,
+    "voltage": 3.9114,
+    "current": 1.5886,
+    "temp": 26.63,
+    "soc": 80.459,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 450.0,
+    "voltage": 3.9071,
+    "current": 1.8119,
+    "temp": 26.31,
+    "soc": 80.397,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 451.0,
+    "voltage": 3.9231,
+    "current": 1.6988,
+    "temp": 26.17,
+    "soc": 80.412,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 452.0,
+    "voltage": 3.9163,
+    "current": 1.6753,
+    "temp": 26.43,
+    "soc": 80.374,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 453.0,
+    "voltage": 3.929,
+    "current": 1.7774,
+    "temp": 26.45,
+    "soc": 80.428,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 454.0,
+    "voltage": 3.9167,
+    "current": 1.6701,
+    "temp": 26.59,
+    "soc": 80.377,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 455.0,
+    "voltage": 3.9228,
+    "current": 1.6435,
+    "temp": 26.38,
+    "soc": 80.359,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 456.0,
+    "voltage": 3.9248,
+    "current": 1.7667,
+    "temp": 26.59,
+    "soc": 80.372,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 457.0,
+    "voltage": 3.9295,
+    "current": 1.7397,
+    "temp": 26.87,
+    "soc": 80.399,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 458.0,
+    "voltage": 3.9334,
+    "current": 1.5863,
+    "temp": 26.65,
+    "soc": 80.411,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 459.0,
+    "voltage": 3.9277,
+    "current": 1.654,
+    "temp": 26.47,
+    "soc": 80.395,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 460.0,
+    "voltage": 3.9285,
+    "current": 1.626,
+    "temp": 26.44,
+    "soc": 80.376,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 461.0,
+    "voltage": 3.9277,
+    "current": 1.5741,
+    "temp": 26.41,
+    "soc": 80.342,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 462.0,
+    "voltage": 3.924,
+    "current": 1.7646,
+    "temp": 26.71,
+    "soc": 80.321,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 463.0,
+    "voltage": 3.9154,
+    "current": 1.8532,
+    "temp": 26.35,
+    "soc": 80.265,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 464.0,
+    "voltage": 3.9214,
+    "current": 1.5561,
+    "temp": 26.48,
+    "soc": 80.196,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 465.0,
+    "voltage": 3.9215,
+    "current": 1.706,
+    "temp": 26.48,
+    "soc": 80.161,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 466.0,
+    "voltage": 3.9234,
+    "current": 1.5971,
+    "temp": 26.37,
+    "soc": 80.119,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 467.0,
+    "voltage": 3.9219,
+    "current": 1.6167,
+    "temp": 26.19,
+    "soc": 80.074,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 468.0,
+    "voltage": 3.9281,
+    "current": 1.7026,
+    "temp": 26.53,
+    "soc": 80.083,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 469.0,
+    "voltage": 3.9301,
+    "current": 1.6383,
+    "temp": 26.45,
+    "soc": 80.085,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 470.0,
+    "voltage": 3.924,
+    "current": 1.6464,
+    "temp": 26.56,
+    "soc": 80.048,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 471.0,
+    "voltage": 3.933,
+    "current": 1.5767,
+    "temp": 26.35,
+    "soc": 80.053,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 472.0,
+    "voltage": 3.9177,
+    "current": 1.71,
+    "temp": 26.7,
+    "soc": 79.987,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 473.0,
+    "voltage": 3.9232,
+    "current": 1.6859,
+    "temp": 26.28,
+    "soc": 79.956,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 474.0,
+    "voltage": 3.9211,
+    "current": 1.6709,
+    "temp": 26.79,
+    "soc": 79.911,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 475.0,
+    "voltage": 3.917,
+    "current": 1.5973,
+    "temp": 26.1,
+    "soc": 79.832,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 476.0,
+    "voltage": 3.9253,
+    "current": 1.627,
+    "temp": 26.53,
+    "soc": 79.816,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 477.0,
+    "voltage": 3.9223,
+    "current": 1.7449,
+    "temp": 26.54,
+    "soc": 79.801,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 478.0,
+    "voltage": 3.9311,
+    "current": 1.7185,
+    "temp": 26.28,
+    "soc": 79.831,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 479.0,
+    "voltage": 3.93,
+    "current": 1.5426,
+    "temp": 26.53,
+    "soc": 79.813,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 480.0,
+    "voltage": 3.812,
+    "current": 5.6614,
+    "temp": 26.69,
+    "soc": 79.845,
+    "soh": 92.086,
+    "rul_cycles": 840,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 481.0,
+    "voltage": 3.823,
+    "current": 5.6981,
+    "temp": 26.01,
+    "soc": 79.939,
+    "soh": 92.086,
+    "rul_cycles": 838,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 482.0,
+    "voltage": 3.8231,
+    "current": 5.5301,
+    "temp": 26.57,
+    "soc": 79.983,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 483.0,
+    "voltage": 3.8134,
+    "current": 5.7773,
+    "temp": 25.98,
+    "soc": 80.005,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 484.0,
+    "voltage": 3.81,
+    "current": 5.6154,
+    "temp": 26.3,
+    "soc": 79.975,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 485.0,
+    "voltage": 3.8019,
+    "current": 5.697,
+    "temp": 26.83,
+    "soc": 79.916,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 486.0,
+    "voltage": 3.8059,
+    "current": 5.6212,
+    "temp": 26.4,
+    "soc": 79.878,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 487.0,
+    "voltage": 3.8137,
+    "current": 5.5269,
+    "temp": 26.3,
+    "soc": 79.873,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 488.0,
+    "voltage": 3.8156,
+    "current": 5.5395,
+    "temp": 26.51,
+    "soc": 79.882,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 489.0,
+    "voltage": 3.8086,
+    "current": 5.6783,
+    "temp": 26.97,
+    "soc": 79.871,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 490.0,
+    "voltage": 3.7963,
+    "current": 5.7314,
+    "temp": 26.21,
+    "soc": 79.799,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 491.0,
+    "voltage": 3.794,
+    "current": 5.5586,
+    "temp": 26.38,
+    "soc": 79.696,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 492.0,
+    "voltage": 3.7954,
+    "current": 5.7222,
+    "temp": 26.9,
+    "soc": 79.647,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 493.0,
+    "voltage": 3.7892,
+    "current": 5.5032,
+    "temp": 26.99,
+    "soc": 79.53,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 494.0,
+    "voltage": 3.7947,
+    "current": 5.6678,
+    "temp": 26.61,
+    "soc": 79.494,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 495.0,
+    "voltage": 3.7932,
+    "current": 5.5394,
+    "temp": 26.4,
+    "soc": 79.431,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 496.0,
+    "voltage": 3.7889,
+    "current": 5.5967,
+    "temp": 27.08,
+    "soc": 79.363,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 497.0,
+    "voltage": 3.7803,
+    "current": 5.6556,
+    "temp": 26.99,
+    "soc": 79.264,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 498.0,
+    "voltage": 3.7913,
+    "current": 5.6148,
+    "temp": 26.82,
+    "soc": 79.24,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 499.0,
+    "voltage": 3.7836,
+    "current": 5.6514,
+    "temp": 26.54,
+    "soc": 79.178,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 500.0,
+    "voltage": 3.776,
+    "current": 5.7086,
+    "temp": 26.71,
+    "soc": 79.09,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 501.0,
+    "voltage": 3.7694,
+    "current": 5.6145,
+    "temp": 26.7,
+    "soc": 78.959,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 502.0,
+    "voltage": 3.7792,
+    "current": 5.7083,
+    "temp": 26.81,
+    "soc": 78.925,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 503.0,
+    "voltage": 3.791,
+    "current": 5.5374,
+    "temp": 27.05,
+    "soc": 78.933,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 504.0,
+    "voltage": 3.7855,
+    "current": 5.6962,
+    "temp": 26.95,
+    "soc": 78.933,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 505.0,
+    "voltage": 3.7716,
+    "current": 5.7668,
+    "temp": 26.58,
+    "soc": 78.859,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 506.0,
+    "voltage": 3.7779,
+    "current": 5.5222,
+    "temp": 27.08,
+    "soc": 78.79,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 507.0,
+    "voltage": 3.7784,
+    "current": 5.6063,
+    "temp": 26.88,
+    "soc": 78.747,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 508.0,
+    "voltage": 3.7669,
+    "current": 5.671,
+    "temp": 26.97,
+    "soc": 78.653,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 509.0,
+    "voltage": 3.7737,
+    "current": 5.6289,
+    "temp": 27.14,
+    "soc": 78.605,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 510.0,
+    "voltage": 3.7736,
+    "current": 5.7145,
+    "temp": 26.64,
+    "soc": 78.578,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 511.0,
+    "voltage": 3.7767,
+    "current": 5.6631,
+    "temp": 26.87,
+    "soc": 78.561,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 512.0,
+    "voltage": 3.7673,
+    "current": 5.6265,
+    "temp": 26.79,
+    "soc": 78.481,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 513.0,
+    "voltage": 3.7661,
+    "current": 5.5998,
+    "temp": 26.6,
+    "soc": 78.4,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 514.0,
+    "voltage": 3.7587,
+    "current": 5.7994,
+    "temp": 27.0,
+    "soc": 78.322,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 515.0,
+    "voltage": 3.7597,
+    "current": 5.6893,
+    "temp": 27.45,
+    "soc": 78.241,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 516.0,
+    "voltage": 3.7613,
+    "current": 5.6645,
+    "temp": 26.59,
+    "soc": 78.176,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 517.0,
+    "voltage": 3.7647,
+    "current": 5.6396,
+    "temp": 26.97,
+    "soc": 78.134,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 518.0,
+    "voltage": 3.7665,
+    "current": 5.5543,
+    "temp": 27.12,
+    "soc": 78.09,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 519.0,
+    "voltage": 3.7566,
+    "current": 5.6247,
+    "temp": 27.03,
+    "soc": 78.004,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 520.0,
+    "voltage": 3.8661,
+    "current": 1.9083,
+    "temp": 27.0,
+    "soc": 77.907,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 521.0,
+    "voltage": 3.8598,
+    "current": 1.8579,
+    "temp": 26.76,
+    "soc": 77.772,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 522.0,
+    "voltage": 3.8603,
+    "current": 1.8663,
+    "temp": 27.07,
+    "soc": 77.658,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 523.0,
+    "voltage": 3.8536,
+    "current": 2.0367,
+    "temp": 26.87,
+    "soc": 77.547,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 524.0,
+    "voltage": 3.8484,
+    "current": 1.9151,
+    "temp": 26.58,
+    "soc": 77.395,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 525.0,
+    "voltage": 3.8682,
+    "current": 1.8488,
+    "temp": 27.26,
+    "soc": 77.368,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 526.0,
+    "voltage": 3.8649,
+    "current": 1.9422,
+    "temp": 27.21,
+    "soc": 77.334,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 527.0,
+    "voltage": 3.8638,
+    "current": 1.8257,
+    "temp": 27.03,
+    "soc": 77.271,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 528.0,
+    "voltage": 3.8697,
+    "current": 1.6806,
+    "temp": 27.07,
+    "soc": 77.22,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 529.0,
+    "voltage": 3.8704,
+    "current": 1.8041,
+    "temp": 27.23,
+    "soc": 77.195,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 530.0,
+    "voltage": 3.8625,
+    "current": 1.7403,
+    "temp": 27.06,
+    "soc": 77.11,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 531.0,
+    "voltage": 3.8651,
+    "current": 1.8345,
+    "temp": 27.2,
+    "soc": 77.064,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 532.0,
+    "voltage": 3.8715,
+    "current": 1.8709,
+    "temp": 26.95,
+    "soc": 77.062,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 533.0,
+    "voltage": 3.8582,
+    "current": 1.9664,
+    "temp": 27.27,
+    "soc": 76.992,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 534.0,
+    "voltage": 3.8693,
+    "current": 1.8872,
+    "temp": 27.07,
+    "soc": 76.977,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 535.0,
+    "voltage": 3.8626,
+    "current": 1.8497,
+    "temp": 27.05,
+    "soc": 76.912,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 536.0,
+    "voltage": 3.87,
+    "current": 2.0004,
+    "temp": 26.75,
+    "soc": 76.921,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 537.0,
+    "voltage": 3.8744,
+    "current": 1.6638,
+    "temp": 27.06,
+    "soc": 76.887,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 538.0,
+    "voltage": 3.8618,
+    "current": 1.924,
+    "temp": 26.84,
+    "soc": 76.825,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 539.0,
+    "voltage": 3.8749,
+    "current": 1.9551,
+    "temp": 26.87,
+    "soc": 76.848,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 540.0,
+    "voltage": 3.8706,
+    "current": 1.7572,
+    "temp": 26.84,
+    "soc": 76.8,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 541.0,
+    "voltage": 3.865,
+    "current": 2.004,
+    "temp": 26.78,
+    "soc": 76.765,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 542.0,
+    "voltage": 3.8721,
+    "current": 1.9049,
+    "temp": 27.42,
+    "soc": 76.753,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 543.0,
+    "voltage": 3.8788,
+    "current": 1.845,
+    "temp": 27.26,
+    "soc": 76.765,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 544.0,
+    "voltage": 3.8661,
+    "current": 1.9178,
+    "temp": 27.37,
+    "soc": 76.707,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 545.0,
+    "voltage": 3.8683,
+    "current": 2.0807,
+    "temp": 26.74,
+    "soc": 76.695,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 546.0,
+    "voltage": 3.8747,
+    "current": 1.9105,
+    "temp": 27.0,
+    "soc": 76.686,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 547.0,
+    "voltage": 3.8762,
+    "current": 1.8727,
+    "temp": 26.72,
+    "soc": 76.674,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 548.0,
+    "voltage": 3.8754,
+    "current": 1.7988,
+    "temp": 26.84,
+    "soc": 76.641,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 549.0,
+    "voltage": 3.8738,
+    "current": 1.7954,
+    "temp": 26.79,
+    "soc": 76.597,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 550.0,
+    "voltage": 3.8682,
+    "current": 1.9149,
+    "temp": 27.22,
+    "soc": 76.544,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 551.0,
+    "voltage": 3.8765,
+    "current": 1.7984,
+    "temp": 26.89,
+    "soc": 76.522,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 552.0,
+    "voltage": 3.869,
+    "current": 1.9052,
+    "temp": 27.18,
+    "soc": 76.473,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 553.0,
+    "voltage": 3.8611,
+    "current": 1.8189,
+    "temp": 27.08,
+    "soc": 76.366,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 554.0,
+    "voltage": 3.8761,
+    "current": 1.9058,
+    "temp": 27.42,
+    "soc": 76.375,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 555.0,
+    "voltage": 3.8789,
+    "current": 1.8966,
+    "temp": 26.66,
+    "soc": 76.39,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 556.0,
+    "voltage": 3.8612,
+    "current": 1.9727,
+    "temp": 27.21,
+    "soc": 76.308,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 557.0,
+    "voltage": 3.8714,
+    "current": 1.7715,
+    "temp": 27.18,
+    "soc": 76.259,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 558.0,
+    "voltage": 3.8792,
+    "current": 1.8317,
+    "temp": 26.75,
+    "soc": 76.268,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 559.0,
+    "voltage": 3.8881,
+    "current": 1.7955,
+    "temp": 27.15,
+    "soc": 76.315,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 560.0,
+    "voltage": 3.83,
+    "current": 3.6222,
+    "temp": 27.01,
+    "soc": 76.335,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 561.0,
+    "voltage": 3.8238,
+    "current": 3.6456,
+    "temp": 26.9,
+    "soc": 76.316,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 562.0,
+    "voltage": 3.8249,
+    "current": 3.6414,
+    "temp": 26.78,
+    "soc": 76.302,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 563.0,
+    "voltage": 3.8355,
+    "current": 3.5695,
+    "temp": 26.8,
+    "soc": 76.335,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 564.0,
+    "voltage": 3.8208,
+    "current": 3.6814,
+    "temp": 27.36,
+    "soc": 76.294,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 565.0,
+    "voltage": 3.8182,
+    "current": 3.7064,
+    "temp": 26.95,
+    "soc": 76.246,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 566.0,
+    "voltage": 3.821,
+    "current": 3.6452,
+    "temp": 27.11,
+    "soc": 76.209,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 567.0,
+    "voltage": 3.8148,
+    "current": 3.7733,
+    "temp": 26.8,
+    "soc": 76.161,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 568.0,
+    "voltage": 3.825,
+    "current": 3.5507,
+    "temp": 26.8,
+    "soc": 76.139,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 569.0,
+    "voltage": 3.8328,
+    "current": 3.473,
+    "temp": 27.17,
+    "soc": 76.148,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 570.0,
+    "voltage": 3.8268,
+    "current": 3.5079,
+    "temp": 26.69,
+    "soc": 76.123,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 571.0,
+    "voltage": 3.8163,
+    "current": 3.7793,
+    "temp": 26.88,
+    "soc": 76.086,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 572.0,
+    "voltage": 3.8171,
+    "current": 3.6964,
+    "temp": 26.97,
+    "soc": 76.043,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 573.0,
+    "voltage": 3.8116,
+    "current": 3.5948,
+    "temp": 26.99,
+    "soc": 75.954,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 574.0,
+    "voltage": 3.8224,
+    "current": 3.6451,
+    "temp": 26.93,
+    "soc": 75.949,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 575.0,
+    "voltage": 3.8199,
+    "current": 3.5375,
+    "temp": 27.05,
+    "soc": 75.907,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 576.0,
+    "voltage": 3.8112,
+    "current": 3.8384,
+    "temp": 27.11,
+    "soc": 75.873,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 577.0,
+    "voltage": 3.8322,
+    "current": 3.6548,
+    "temp": 27.12,
+    "soc": 75.929,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 578.0,
+    "voltage": 3.8171,
+    "current": 3.6181,
+    "temp": 26.78,
+    "soc": 75.879,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 579.0,
+    "voltage": 3.8099,
+    "current": 3.6878,
+    "temp": 26.92,
+    "soc": 75.804,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 580.0,
+    "voltage": 3.8114,
+    "current": 3.6777,
+    "temp": 27.22,
+    "soc": 75.747,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 581.0,
+    "voltage": 3.8191,
+    "current": 3.682,
+    "temp": 27.16,
+    "soc": 75.741,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 582.0,
+    "voltage": 3.8155,
+    "current": 3.5821,
+    "temp": 26.71,
+    "soc": 75.694,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 583.0,
+    "voltage": 3.8044,
+    "current": 3.6852,
+    "temp": 27.06,
+    "soc": 75.607,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 584.0,
+    "voltage": 3.8126,
+    "current": 3.7804,
+    "temp": 26.6,
+    "soc": 75.595,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 585.0,
+    "voltage": 3.8051,
+    "current": 3.7706,
+    "temp": 27.0,
+    "soc": 75.536,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 586.0,
+    "voltage": 3.8166,
+    "current": 3.7654,
+    "temp": 27.38,
+    "soc": 75.55,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 587.0,
+    "voltage": 3.8164,
+    "current": 3.5653,
+    "temp": 26.81,
+    "soc": 75.521,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 588.0,
+    "voltage": 3.8092,
+    "current": 3.5837,
+    "temp": 26.84,
+    "soc": 75.456,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 589.0,
+    "voltage": 3.8155,
+    "current": 3.6351,
+    "temp": 27.16,
+    "soc": 75.443,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 590.0,
+    "voltage": 3.8084,
+    "current": 3.6211,
+    "temp": 26.7,
+    "soc": 75.386,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 591.0,
+    "voltage": 3.8095,
+    "current": 3.7033,
+    "temp": 26.88,
+    "soc": 75.356,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 592.0,
+    "voltage": 3.813,
+    "current": 3.4998,
+    "temp": 27.13,
+    "soc": 75.312,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 593.0,
+    "voltage": 3.799,
+    "current": 3.7617,
+    "temp": 26.89,
+    "soc": 75.237,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 594.0,
+    "voltage": 3.8029,
+    "current": 3.62,
+    "temp": 26.97,
+    "soc": 75.17,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 595.0,
+    "voltage": 3.8113,
+    "current": 3.6014,
+    "temp": 27.17,
+    "soc": 75.155,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 596.0,
+    "voltage": 3.8052,
+    "current": 3.5893,
+    "temp": 27.11,
+    "soc": 75.102,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 597.0,
+    "voltage": 3.8057,
+    "current": 3.5221,
+    "temp": 27.08,
+    "soc": 75.045,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 598.0,
+    "voltage": 3.7972,
+    "current": 3.6984,
+    "temp": 26.96,
+    "soc": 74.976,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 599.0,
+    "voltage": 3.8051,
+    "current": 3.6571,
+    "temp": 27.1,
+    "soc": 74.954,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 600.0,
+    "voltage": 3.8065,
+    "current": 3.8399,
+    "temp": 27.01,
+    "soc": 74.97,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 601.0,
+    "voltage": 3.7902,
+    "current": 3.8753,
+    "temp": 27.13,
+    "soc": 74.893,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 602.0,
+    "voltage": 3.793,
+    "current": 3.9873,
+    "temp": 26.94,
+    "soc": 74.861,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 603.0,
+    "voltage": 3.7949,
+    "current": 4.097,
+    "temp": 27.01,
+    "soc": 74.861,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 604.0,
+    "voltage": 3.7908,
+    "current": 3.927,
+    "temp": 26.85,
+    "soc": 74.804,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 605.0,
+    "voltage": 3.7954,
+    "current": 3.8324,
+    "temp": 27.04,
+    "soc": 74.763,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 606.0,
+    "voltage": 3.7845,
+    "current": 3.922,
+    "temp": 26.89,
+    "soc": 74.679,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 607.0,
+    "voltage": 3.7914,
+    "current": 3.9275,
+    "temp": 26.84,
+    "soc": 74.646,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 608.0,
+    "voltage": 3.7928,
+    "current": 3.7439,
+    "temp": 27.12,
+    "soc": 74.591,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 609.0,
+    "voltage": 3.7925,
+    "current": 3.9295,
+    "temp": 27.11,
+    "soc": 74.571,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 610.0,
+    "voltage": 3.7932,
+    "current": 3.9509,
+    "temp": 27.23,
+    "soc": 74.559,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 611.0,
+    "voltage": 3.7975,
+    "current": 4.0472,
+    "temp": 26.99,
+    "soc": 74.586,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 612.0,
+    "voltage": 3.7844,
+    "current": 4.0942,
+    "temp": 27.16,
+    "soc": 74.537,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 613.0,
+    "voltage": 3.7839,
+    "current": 4.097,
+    "temp": 27.19,
+    "soc": 74.491,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 614.0,
+    "voltage": 3.7855,
+    "current": 3.9602,
+    "temp": 27.18,
+    "soc": 74.435,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 615.0,
+    "voltage": 3.7839,
+    "current": 3.9062,
+    "temp": 26.93,
+    "soc": 74.367,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 616.0,
+    "voltage": 3.779,
+    "current": 4.1584,
+    "temp": 27.13,
+    "soc": 74.322,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 617.0,
+    "voltage": 3.7804,
+    "current": 3.995,
+    "temp": 27.17,
+    "soc": 74.261,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 618.0,
+    "voltage": 3.7822,
+    "current": 3.9428,
+    "temp": 27.11,
+    "soc": 74.208,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 619.0,
+    "voltage": 3.7874,
+    "current": 3.9893,
+    "temp": 26.69,
+    "soc": 74.197,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 620.0,
+    "voltage": 3.7747,
+    "current": 3.9891,
+    "temp": 27.15,
+    "soc": 74.112,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 621.0,
+    "voltage": 3.7855,
+    "current": 3.9712,
+    "temp": 27.56,
+    "soc": 74.096,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 622.0,
+    "voltage": 3.7867,
+    "current": 3.8937,
+    "temp": 27.05,
+    "soc": 74.071,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 623.0,
+    "voltage": 3.7789,
+    "current": 3.9028,
+    "temp": 26.98,
+    "soc": 74.004,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 624.0,
+    "voltage": 3.7672,
+    "current": 3.9813,
+    "temp": 27.2,
+    "soc": 73.893,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 625.0,
+    "voltage": 3.7753,
+    "current": 3.9018,
+    "temp": 27.2,
+    "soc": 73.829,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 626.0,
+    "voltage": 3.7846,
+    "current": 3.9235,
+    "temp": 27.38,
+    "soc": 73.826,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 627.0,
+    "voltage": 3.7757,
+    "current": 3.9433,
+    "temp": 26.89,
+    "soc": 73.774,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 628.0,
+    "voltage": 3.771,
+    "current": 3.9697,
+    "temp": 27.29,
+    "soc": 73.704,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 629.0,
+    "voltage": 3.7692,
+    "current": 4.0584,
+    "temp": 27.27,
+    "soc": 73.647,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 630.0,
+    "voltage": 3.7841,
+    "current": 3.7707,
+    "temp": 27.13,
+    "soc": 73.629,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 631.0,
+    "voltage": 3.7742,
+    "current": 4.0719,
+    "temp": 27.23,
+    "soc": 73.606,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 632.0,
+    "voltage": 3.7693,
+    "current": 4.0512,
+    "temp": 27.37,
+    "soc": 73.551,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 633.0,
+    "voltage": 3.7751,
+    "current": 3.8176,
+    "temp": 27.34,
+    "soc": 73.494,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 634.0,
+    "voltage": 3.7708,
+    "current": 3.948,
+    "temp": 26.94,
+    "soc": 73.44,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 635.0,
+    "voltage": 3.7677,
+    "current": 3.9258,
+    "temp": 27.34,
+    "soc": 73.37,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 636.0,
+    "voltage": 3.7821,
+    "current": 3.8311,
+    "temp": 27.17,
+    "soc": 73.371,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 637.0,
+    "voltage": 3.7705,
+    "current": 3.8577,
+    "temp": 27.2,
+    "soc": 73.308,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 638.0,
+    "voltage": 3.7784,
+    "current": 3.8888,
+    "temp": 27.2,
+    "soc": 73.299,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 639.0,
+    "voltage": 3.7734,
+    "current": 4.07,
+    "temp": 27.16,
+    "soc": 73.29,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 640.0,
+    "voltage": 3.8125,
+    "current": 2.5108,
+    "temp": 27.43,
+    "soc": 73.232,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 641.0,
+    "voltage": 3.8049,
+    "current": 2.5287,
+    "temp": 27.18,
+    "soc": 73.139,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 642.0,
+    "voltage": 3.8104,
+    "current": 2.5083,
+    "temp": 26.97,
+    "soc": 73.084,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 643.0,
+    "voltage": 3.8123,
+    "current": 2.3357,
+    "temp": 27.11,
+    "soc": 73.015,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 644.0,
+    "voltage": 3.8069,
+    "current": 2.3834,
+    "temp": 27.23,
+    "soc": 72.929,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 645.0,
+    "voltage": 3.8111,
+    "current": 2.491,
+    "temp": 27.43,
+    "soc": 72.894,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 646.0,
+    "voltage": 3.8074,
+    "current": 2.3442,
+    "temp": 27.31,
+    "soc": 72.814,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 647.0,
+    "voltage": 3.8153,
+    "current": 2.4985,
+    "temp": 27.02,
+    "soc": 72.812,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 648.0,
+    "voltage": 3.8092,
+    "current": 2.4261,
+    "temp": 27.68,
+    "soc": 72.758,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 649.0,
+    "voltage": 3.8129,
+    "current": 2.3652,
+    "temp": 27.24,
+    "soc": 72.717,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 650.0,
+    "voltage": 3.8112,
+    "current": 2.5093,
+    "temp": 27.44,
+    "soc": 72.693,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 651.0,
+    "voltage": 3.8091,
+    "current": 2.4844,
+    "temp": 27.15,
+    "soc": 72.651,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 652.0,
+    "voltage": 3.8151,
+    "current": 2.3793,
+    "temp": 27.28,
+    "soc": 72.626,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 653.0,
+    "voltage": 3.8067,
+    "current": 2.5202,
+    "temp": 27.34,
+    "soc": 72.577,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 654.0,
+    "voltage": 3.8182,
+    "current": 2.3461,
+    "temp": 27.42,
+    "soc": 72.565,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 655.0,
+    "voltage": 3.8037,
+    "current": 2.4795,
+    "temp": 27.38,
+    "soc": 72.491,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 656.0,
+    "voltage": 3.8111,
+    "current": 2.4893,
+    "temp": 27.34,
+    "soc": 72.467,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 657.0,
+    "voltage": 3.8221,
+    "current": 2.4446,
+    "temp": 27.11,
+    "soc": 72.495,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 658.0,
+    "voltage": 3.8062,
+    "current": 2.4867,
+    "temp": 27.05,
+    "soc": 72.431,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 659.0,
+    "voltage": 3.8111,
+    "current": 2.3007,
+    "temp": 27.23,
+    "soc": 72.37,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 660.0,
+    "voltage": 3.8126,
+    "current": 2.523,
+    "temp": 27.35,
+    "soc": 72.358,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 661.0,
+    "voltage": 3.8132,
+    "current": 2.452,
+    "temp": 27.12,
+    "soc": 72.335,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 662.0,
+    "voltage": 3.8148,
+    "current": 2.4014,
+    "temp": 27.37,
+    "soc": 72.311,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 663.0,
+    "voltage": 3.8122,
+    "current": 2.5447,
+    "temp": 27.45,
+    "soc": 72.295,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 664.0,
+    "voltage": 3.8166,
+    "current": 2.4275,
+    "temp": 26.97,
+    "soc": 72.282,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 665.0,
+    "voltage": 3.8205,
+    "current": 2.3465,
+    "temp": 26.98,
+    "soc": 72.274,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 666.0,
+    "voltage": 3.8174,
+    "current": 2.3153,
+    "temp": 27.12,
+    "soc": 72.239,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 667.0,
+    "voltage": 3.8096,
+    "current": 2.5082,
+    "temp": 27.21,
+    "soc": 72.195,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 668.0,
+    "voltage": 3.8181,
+    "current": 2.3347,
+    "temp": 27.04,
+    "soc": 72.171,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 669.0,
+    "voltage": 3.8178,
+    "current": 2.5745,
+    "temp": 27.41,
+    "soc": 72.185,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 670.0,
+    "voltage": 3.8157,
+    "current": 2.2582,
+    "temp": 27.22,
+    "soc": 72.127,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 671.0,
+    "voltage": 3.8035,
+    "current": 2.6084,
+    "temp": 27.14,
+    "soc": 72.065,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 672.0,
+    "voltage": 3.8169,
+    "current": 2.43,
+    "temp": 26.85,
+    "soc": 72.054,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 673.0,
+    "voltage": 3.8114,
+    "current": 2.4641,
+    "temp": 26.87,
+    "soc": 72.015,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 674.0,
+    "voltage": 3.802,
+    "current": 2.4025,
+    "temp": 27.18,
+    "soc": 71.916,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 675.0,
+    "voltage": 3.8151,
+    "current": 2.4305,
+    "temp": 26.7,
+    "soc": 71.906,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 676.0,
+    "voltage": 3.809,
+    "current": 2.4397,
+    "temp": 27.33,
+    "soc": 71.861,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 677.0,
+    "voltage": 3.8087,
+    "current": 2.4693,
+    "temp": 27.09,
+    "soc": 71.823,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 678.0,
+    "voltage": 3.8128,
+    "current": 2.4583,
+    "temp": 27.77,
+    "soc": 71.807,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 679.0,
+    "voltage": 3.8119,
+    "current": 2.4677,
+    "temp": 27.58,
+    "soc": 71.785,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 680.0,
+    "voltage": 3.8801,
+    "current": -0.0439,
+    "temp": 27.08,
+    "soc": 71.718,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 681.0,
+    "voltage": 3.8749,
+    "current": -0.0015,
+    "temp": 27.09,
+    "soc": 71.635,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 682.0,
+    "voltage": 3.88,
+    "current": 0.0735,
+    "temp": 27.3,
+    "soc": 71.601,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 683.0,
+    "voltage": 3.8814,
+    "current": -0.1495,
+    "temp": 27.44,
+    "soc": 71.537,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 684.0,
+    "voltage": 3.8868,
+    "current": -0.1343,
+    "temp": 26.76,
+    "soc": 71.509,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 685.0,
+    "voltage": 3.8828,
+    "current": 0.0965,
+    "temp": 26.73,
+    "soc": 71.497,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 686.0,
+    "voltage": 3.8772,
+    "current": 0.0627,
+    "temp": 26.95,
+    "soc": 71.443,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 687.0,
+    "voltage": 3.8891,
+    "current": -0.0146,
+    "temp": 27.19,
+    "soc": 71.445,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 688.0,
+    "voltage": 3.8815,
+    "current": 0.0268,
+    "temp": 27.16,
+    "soc": 71.406,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 689.0,
+    "voltage": 3.8884,
+    "current": 0.0613,
+    "temp": 27.27,
+    "soc": 71.411,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 690.0,
+    "voltage": 3.889,
+    "current": -0.0617,
+    "temp": 26.81,
+    "soc": 71.392,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 691.0,
+    "voltage": 3.8977,
+    "current": -0.0744,
+    "temp": 26.58,
+    "soc": 71.416,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 692.0,
+    "voltage": 3.8862,
+    "current": 0.0464,
+    "temp": 27.21,
+    "soc": 71.386,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 693.0,
+    "voltage": 3.8889,
+    "current": -0.0361,
+    "temp": 26.87,
+    "soc": 71.358,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 694.0,
+    "voltage": 3.8884,
+    "current": 0.0467,
+    "temp": 26.62,
+    "soc": 71.34,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 695.0,
+    "voltage": 3.8923,
+    "current": -0.1582,
+    "temp": 27.05,
+    "soc": 71.306,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 696.0,
+    "voltage": 3.8928,
+    "current": 0.132,
+    "temp": 27.17,
+    "soc": 71.325,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 697.0,
+    "voltage": 3.8826,
+    "current": 0.0245,
+    "temp": 26.98,
+    "soc": 71.26,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 698.0,
+    "voltage": 3.8866,
+    "current": 0.0121,
+    "temp": 26.9,
+    "soc": 71.222,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 699.0,
+    "voltage": 3.8857,
+    "current": 0.0872,
+    "temp": 26.96,
+    "soc": 71.193,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 700.0,
+    "voltage": 3.8949,
+    "current": 0.1721,
+    "temp": 26.91,
+    "soc": 71.228,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 701.0,
+    "voltage": 3.9007,
+    "current": 0.1025,
+    "temp": 26.71,
+    "soc": 71.273,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 702.0,
+    "voltage": 3.8984,
+    "current": -0.1369,
+    "temp": 26.83,
+    "soc": 71.252,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 703.0,
+    "voltage": 3.8975,
+    "current": -0.0908,
+    "temp": 27.07,
+    "soc": 71.232,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 704.0,
+    "voltage": 3.898,
+    "current": -0.0489,
+    "temp": 27.02,
+    "soc": 71.222,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 705.0,
+    "voltage": 3.9027,
+    "current": 0.016,
+    "temp": 26.98,
+    "soc": 71.245,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 706.0,
+    "voltage": 3.8918,
+    "current": -0.0218,
+    "temp": 26.74,
+    "soc": 71.193,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 707.0,
+    "voltage": 3.9008,
+    "current": -0.0655,
+    "temp": 26.9,
+    "soc": 71.188,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 708.0,
+    "voltage": 3.9031,
+    "current": 0.021,
+    "temp": 26.49,
+    "soc": 71.208,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 709.0,
+    "voltage": 3.9033,
+    "current": -0.0892,
+    "temp": 26.95,
+    "soc": 71.202,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 710.0,
+    "voltage": 3.902,
+    "current": -0.0393,
+    "temp": 27.2,
+    "soc": 71.194,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 711.0,
+    "voltage": 3.9083,
+    "current": -0.1176,
+    "temp": 26.61,
+    "soc": 71.206,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 712.0,
+    "voltage": 3.8893,
+    "current": -0.03,
+    "temp": 26.78,
+    "soc": 71.119,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 713.0,
+    "voltage": 3.9076,
+    "current": -0.0688,
+    "temp": 26.96,
+    "soc": 71.14,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 714.0,
+    "voltage": 3.9007,
+    "current": -0.0897,
+    "temp": 27.13,
+    "soc": 71.111,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 715.0,
+    "voltage": 3.891,
+    "current": 0.0805,
+    "temp": 26.79,
+    "soc": 71.059,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 716.0,
+    "voltage": 3.9074,
+    "current": -0.0778,
+    "temp": 26.73,
+    "soc": 71.076,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 717.0,
+    "voltage": 3.9045,
+    "current": 0.1993,
+    "temp": 26.47,
+    "soc": 71.117,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 718.0,
+    "voltage": 3.9018,
+    "current": 0.0443,
+    "temp": 26.88,
+    "soc": 71.106,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 719.0,
+    "voltage": 3.9083,
+    "current": -0.0042,
+    "temp": 27.26,
+    "soc": 71.122,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 720.0,
+    "voltage": 3.9672,
+    "current": -2.0791,
+    "temp": 26.9,
+    "soc": 71.108,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 721.0,
+    "voltage": 3.9638,
+    "current": -1.9106,
+    "temp": 26.83,
+    "soc": 71.101,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 722.0,
+    "voltage": 3.9695,
+    "current": -2.0125,
+    "temp": 26.9,
+    "soc": 71.106,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 723.0,
+    "voltage": 3.9649,
+    "current": -1.9925,
+    "temp": 26.82,
+    "soc": 71.082,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 724.0,
+    "voltage": 3.9576,
+    "current": -1.755,
+    "temp": 26.66,
+    "soc": 71.059,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 725.0,
+    "voltage": 3.9561,
+    "current": -2.0056,
+    "temp": 26.98,
+    "soc": 70.984,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 726.0,
+    "voltage": 3.9615,
+    "current": -1.8839,
+    "temp": 26.86,
+    "soc": 70.969,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 727.0,
+    "voltage": 3.9636,
+    "current": -2.0179,
+    "temp": 26.81,
+    "soc": 70.942,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 728.0,
+    "voltage": 3.9785,
+    "current": -1.9858,
+    "temp": 26.6,
+    "soc": 71.003,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 729.0,
+    "voltage": 3.9641,
+    "current": -1.8291,
+    "temp": 27.06,
+    "soc": 70.995,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 730.0,
+    "voltage": 3.9718,
+    "current": -2.0452,
+    "temp": 26.92,
+    "soc": 70.992,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 731.0,
+    "voltage": 3.9699,
+    "current": -1.8421,
+    "temp": 26.67,
+    "soc": 71.009,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 732.0,
+    "voltage": 3.9707,
+    "current": -1.9307,
+    "temp": 26.98,
+    "soc": 71.008,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 733.0,
+    "voltage": 3.9827,
+    "current": -2.0458,
+    "temp": 26.67,
+    "soc": 71.052,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 734.0,
+    "voltage": 3.9697,
+    "current": -1.936,
+    "temp": 26.61,
+    "soc": 71.03,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 735.0,
+    "voltage": 3.9741,
+    "current": -1.9431,
+    "temp": 26.61,
+    "soc": 71.032,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 736.0,
+    "voltage": 3.9711,
+    "current": -1.9447,
+    "temp": 26.4,
+    "soc": 71.013,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 737.0,
+    "voltage": 3.9739,
+    "current": -2.1149,
+    "temp": 26.85,
+    "soc": 70.981,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 738.0,
+    "voltage": 3.9767,
+    "current": -2.0467,
+    "temp": 26.38,
+    "soc": 70.978,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 739.0,
+    "voltage": 3.9795,
+    "current": -2.008,
+    "temp": 26.5,
+    "soc": 70.996,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 740.0,
+    "voltage": 3.9781,
+    "current": -1.9897,
+    "temp": 26.32,
+    "soc": 71.002,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 741.0,
+    "voltage": 3.9762,
+    "current": -1.9205,
+    "temp": 26.72,
+    "soc": 71.005,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 742.0,
+    "voltage": 3.9745,
+    "current": -1.9461,
+    "temp": 26.7,
+    "soc": 70.991,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 743.0,
+    "voltage": 3.9852,
+    "current": -2.1052,
+    "temp": 26.66,
+    "soc": 71.009,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 744.0,
+    "voltage": 3.9754,
+    "current": -1.9818,
+    "temp": 26.51,
+    "soc": 70.987,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 745.0,
+    "voltage": 3.987,
+    "current": -1.9594,
+    "temp": 26.48,
+    "soc": 71.036,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 746.0,
+    "voltage": 3.9846,
+    "current": -1.9496,
+    "temp": 26.8,
+    "soc": 71.062,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 747.0,
+    "voltage": 3.9765,
+    "current": -1.9045,
+    "temp": 26.6,
+    "soc": 71.042,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 748.0,
+    "voltage": 3.9836,
+    "current": -1.9347,
+    "temp": 26.76,
+    "soc": 71.058,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 749.0,
+    "voltage": 3.9829,
+    "current": -1.9778,
+    "temp": 26.52,
+    "soc": 71.058,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 750.0,
+    "voltage": 3.9902,
+    "current": -1.9992,
+    "temp": 26.73,
+    "soc": 71.094,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 751.0,
+    "voltage": 3.9995,
+    "current": -2.1105,
+    "temp": 26.95,
+    "soc": 71.155,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 752.0,
+    "voltage": 3.9797,
+    "current": -1.9329,
+    "temp": 26.8,
+    "soc": 71.12,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 753.0,
+    "voltage": 3.9909,
+    "current": -1.9795,
+    "temp": 26.6,
+    "soc": 71.146,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 754.0,
+    "voltage": 3.9901,
+    "current": -1.9708,
+    "temp": 26.73,
+    "soc": 71.163,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 755.0,
+    "voltage": 3.9982,
+    "current": -2.1075,
+    "temp": 26.62,
+    "soc": 71.198,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 756.0,
+    "voltage": 3.9963,
+    "current": -2.0694,
+    "temp": 26.67,
+    "soc": 71.22,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 757.0,
+    "voltage": 3.9876,
+    "current": -1.9191,
+    "temp": 26.6,
+    "soc": 71.213,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 758.0,
+    "voltage": 3.9927,
+    "current": -1.971,
+    "temp": 26.62,
+    "soc": 71.226,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 759.0,
+    "voltage": 3.9895,
+    "current": -1.9723,
+    "temp": 26.7,
+    "soc": 71.217,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 760.0,
+    "voltage": 3.8916,
+    "current": 2.0828,
+    "temp": 26.45,
+    "soc": 71.353,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 761.0,
+    "voltage": 3.8849,
+    "current": 2.0994,
+    "temp": 26.44,
+    "soc": 71.434,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 762.0,
+    "voltage": 3.8909,
+    "current": 2.1692,
+    "temp": 26.36,
+    "soc": 71.552,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 763.0,
+    "voltage": 3.8828,
+    "current": 2.1155,
+    "temp": 26.32,
+    "soc": 71.596,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 764.0,
+    "voltage": 3.8769,
+    "current": 2.1059,
+    "temp": 26.39,
+    "soc": 71.598,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 765.0,
+    "voltage": 3.8727,
+    "current": 2.0274,
+    "temp": 26.66,
+    "soc": 71.563,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 766.0,
+    "voltage": 3.8699,
+    "current": 2.0524,
+    "temp": 26.45,
+    "soc": 71.526,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 767.0,
+    "voltage": 3.8695,
+    "current": 2.0204,
+    "temp": 26.72,
+    "soc": 71.489,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 768.0,
+    "voltage": 3.8764,
+    "current": 2.1053,
+    "temp": 26.62,
+    "soc": 71.516,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 769.0,
+    "voltage": 3.8779,
+    "current": 2.0304,
+    "temp": 26.22,
+    "soc": 71.536,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 770.0,
+    "voltage": 3.8625,
+    "current": 2.2128,
+    "temp": 26.74,
+    "soc": 71.498,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 771.0,
+    "voltage": 3.8783,
+    "current": 2.0042,
+    "temp": 26.77,
+    "soc": 71.523,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 772.0,
+    "voltage": 3.8688,
+    "current": 2.0716,
+    "temp": 26.4,
+    "soc": 71.503,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 773.0,
+    "voltage": 3.8714,
+    "current": 2.0384,
+    "temp": 26.68,
+    "soc": 71.498,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 774.0,
+    "voltage": 3.8736,
+    "current": 2.2487,
+    "temp": 26.42,
+    "soc": 71.544,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 775.0,
+    "voltage": 3.8716,
+    "current": 2.0972,
+    "temp": 26.61,
+    "soc": 71.547,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 776.0,
+    "voltage": 3.8629,
+    "current": 2.2179,
+    "temp": 26.33,
+    "soc": 71.522,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 777.0,
+    "voltage": 3.8641,
+    "current": 1.991,
+    "temp": 26.22,
+    "soc": 71.471,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 778.0,
+    "voltage": 3.8531,
+    "current": 2.1229,
+    "temp": 26.5,
+    "soc": 71.391,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 779.0,
+    "voltage": 3.8579,
+    "current": 2.1699,
+    "temp": 26.55,
+    "soc": 71.362,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 780.0,
+    "voltage": 3.8612,
+    "current": 2.1059,
+    "temp": 26.49,
+    "soc": 71.347,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 781.0,
+    "voltage": 3.8543,
+    "current": 2.1265,
+    "temp": 26.33,
+    "soc": 71.3,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 782.0,
+    "voltage": 3.861,
+    "current": 2.0411,
+    "temp": 26.48,
+    "soc": 71.285,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 783.0,
+    "voltage": 3.857,
+    "current": 2.2234,
+    "temp": 26.61,
+    "soc": 71.282,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 784.0,
+    "voltage": 3.8526,
+    "current": 2.2722,
+    "temp": 26.54,
+    "soc": 71.264,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 785.0,
+    "voltage": 3.8553,
+    "current": 2.0253,
+    "temp": 26.59,
+    "soc": 71.223,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 786.0,
+    "voltage": 3.8587,
+    "current": 2.0526,
+    "temp": 26.41,
+    "soc": 71.214,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 787.0,
+    "voltage": 3.8552,
+    "current": 2.2484,
+    "temp": 26.78,
+    "soc": 71.22,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 788.0,
+    "voltage": 3.8463,
+    "current": 2.247,
+    "temp": 26.3,
+    "soc": 71.176,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 789.0,
+    "voltage": 3.8625,
+    "current": 2.0461,
+    "temp": 26.63,
+    "soc": 71.196,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 790.0,
+    "voltage": 3.854,
+    "current": 2.0797,
+    "temp": 26.77,
+    "soc": 71.171,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 791.0,
+    "voltage": 3.8535,
+    "current": 2.0578,
+    "temp": 26.62,
+    "soc": 71.145,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 792.0,
+    "voltage": 3.8585,
+    "current": 1.9394,
+    "temp": 26.48,
+    "soc": 71.131,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 793.0,
+    "voltage": 3.8545,
+    "current": 1.9929,
+    "temp": 26.41,
+    "soc": 71.106,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 794.0,
+    "voltage": 3.8576,
+    "current": 2.0482,
+    "temp": 26.72,
+    "soc": 71.112,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 795.0,
+    "voltage": 3.8531,
+    "current": 2.0212,
+    "temp": 26.23,
+    "soc": 71.088,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 796.0,
+    "voltage": 3.8463,
+    "current": 2.0806,
+    "temp": 26.32,
+    "soc": 71.039,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 797.0,
+    "voltage": 3.8499,
+    "current": 2.1007,
+    "temp": 26.43,
+    "soc": 71.023,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 798.0,
+    "voltage": 3.8389,
+    "current": 2.2611,
+    "temp": 26.75,
+    "soc": 70.975,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 799.0,
+    "voltage": 3.8499,
+    "current": 2.0503,
+    "temp": 26.58,
+    "soc": 70.961,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 800.0,
+    "voltage": 3.7973,
+    "current": 3.9698,
+    "temp": 26.3,
+    "soc": 70.978,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 801.0,
+    "voltage": 3.7974,
+    "current": 3.8145,
+    "temp": 26.44,
+    "soc": 70.969,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 802.0,
+    "voltage": 3.796,
+    "current": 3.839,
+    "temp": 26.38,
+    "soc": 70.958,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 803.0,
+    "voltage": 3.7842,
+    "current": 3.8517,
+    "temp": 26.36,
+    "soc": 70.886,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 804.0,
+    "voltage": 3.7933,
+    "current": 3.7827,
+    "temp": 26.7,
+    "soc": 70.866,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 805.0,
+    "voltage": 3.7919,
+    "current": 3.837,
+    "temp": 26.23,
+    "soc": 70.851,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 806.0,
+    "voltage": 3.7913,
+    "current": 3.8543,
+    "temp": 26.83,
+    "soc": 70.839,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 807.0,
+    "voltage": 3.7833,
+    "current": 3.8476,
+    "temp": 26.68,
+    "soc": 70.783,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 808.0,
+    "voltage": 3.7938,
+    "current": 3.844,
+    "temp": 26.73,
+    "soc": 70.795,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 809.0,
+    "voltage": 3.7772,
+    "current": 4.0111,
+    "temp": 26.43,
+    "soc": 70.741,
+    "soh": 92.086,
+    "rul_cycles": 842,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 810.0,
+    "voltage": 3.7916,
+    "current": 3.7694,
+    "temp": 26.49,
+    "soc": 70.735,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 811.0,
+    "voltage": 3.7875,
+    "current": 3.7796,
+    "temp": 26.24,
+    "soc": 70.709,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 812.0,
+    "voltage": 3.7811,
+    "current": 3.772,
+    "temp": 26.42,
+    "soc": 70.651,
+    "soh": 92.086,
+    "rul_cycles": 844,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 813.0,
+    "voltage": 3.7919,
+    "current": 3.812,
+    "temp": 26.63,
+    "soc": 70.669,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 814.0,
+    "voltage": 3.776,
+    "current": 3.757,
+    "temp": 26.79,
+    "soc": 70.586,
+    "soh": 92.086,
+    "rul_cycles": 847,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 815.0,
+    "voltage": 3.7815,
+    "current": 3.9362,
+    "temp": 26.31,
+    "soc": 70.577,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 816.0,
+    "voltage": 3.7802,
+    "current": 3.9797,
+    "temp": 26.47,
+    "soc": 70.569,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 817.0,
+    "voltage": 3.775,
+    "current": 3.7771,
+    "temp": 26.51,
+    "soc": 70.5,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 818.0,
+    "voltage": 3.7848,
+    "current": 3.7511,
+    "temp": 26.27,
+    "soc": 70.491,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 819.0,
+    "voltage": 3.7727,
+    "current": 3.8676,
+    "temp": 26.67,
+    "soc": 70.436,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 820.0,
+    "voltage": 3.7765,
+    "current": 3.8209,
+    "temp": 26.41,
+    "soc": 70.403,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 821.0,
+    "voltage": 3.7728,
+    "current": 3.8911,
+    "temp": 26.52,
+    "soc": 70.366,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 822.0,
+    "voltage": 3.7706,
+    "current": 3.8386,
+    "temp": 26.47,
+    "soc": 70.313,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 823.0,
+    "voltage": 3.778,
+    "current": 3.7264,
+    "temp": 26.4,
+    "soc": 70.29,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 824.0,
+    "voltage": 3.7704,
+    "current": 3.9318,
+    "temp": 26.56,
+    "soc": 70.261,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 825.0,
+    "voltage": 3.7561,
+    "current": 3.9963,
+    "temp": 26.53,
+    "soc": 70.17,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 826.0,
+    "voltage": 3.7755,
+    "current": 3.7968,
+    "temp": 26.5,
+    "soc": 70.164,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 827.0,
+    "voltage": 3.7593,
+    "current": 3.7969,
+    "temp": 26.43,
+    "soc": 70.071,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 828.0,
+    "voltage": 3.7704,
+    "current": 3.8375,
+    "temp": 26.64,
+    "soc": 70.058,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 829.0,
+    "voltage": 3.7698,
+    "current": 3.8402,
+    "temp": 26.91,
+    "soc": 70.042,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 830.0,
+    "voltage": 3.7571,
+    "current": 3.9017,
+    "temp": 26.62,
+    "soc": 69.969,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 831.0,
+    "voltage": 3.7567,
+    "current": 4.0271,
+    "temp": 26.79,
+    "soc": 69.925,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 832.0,
+    "voltage": 3.7569,
+    "current": 3.8055,
+    "temp": 26.32,
+    "soc": 69.851,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 833.0,
+    "voltage": 3.7618,
+    "current": 3.7832,
+    "temp": 26.63,
+    "soc": 69.811,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 834.0,
+    "voltage": 3.7618,
+    "current": 3.6731,
+    "temp": 26.38,
+    "soc": 69.757,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 835.0,
+    "voltage": 3.7651,
+    "current": 3.7625,
+    "temp": 26.31,
+    "soc": 69.742,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 836.0,
+    "voltage": 3.7654,
+    "current": 3.8322,
+    "temp": 26.46,
+    "soc": 69.741,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 837.0,
+    "voltage": 3.7611,
+    "current": 3.9564,
+    "temp": 26.85,
+    "soc": 69.734,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 838.0,
+    "voltage": 3.7554,
+    "current": 3.7708,
+    "temp": 26.81,
+    "soc": 69.664,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 839.0,
+    "voltage": 3.7548,
+    "current": 3.8368,
+    "temp": 26.67,
+    "soc": 69.611,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 840.0,
+    "voltage": 3.7536,
+    "current": 3.6006,
+    "temp": 26.32,
+    "soc": 69.518,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 841.0,
+    "voltage": 3.7547,
+    "current": 3.685,
+    "temp": 26.59,
+    "soc": 69.459,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 842.0,
+    "voltage": 3.76,
+    "current": 3.7408,
+    "temp": 26.69,
+    "soc": 69.446,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 843.0,
+    "voltage": 3.7691,
+    "current": 3.4991,
+    "temp": 26.67,
+    "soc": 69.442,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 844.0,
+    "voltage": 3.7541,
+    "current": 3.5402,
+    "temp": 26.27,
+    "soc": 69.359,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 845.0,
+    "voltage": 3.7534,
+    "current": 3.6895,
+    "temp": 26.47,
+    "soc": 69.309,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 846.0,
+    "voltage": 3.7564,
+    "current": 3.5804,
+    "temp": 26.64,
+    "soc": 69.262,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 847.0,
+    "voltage": 3.7548,
+    "current": 3.7298,
+    "temp": 26.76,
+    "soc": 69.237,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 848.0,
+    "voltage": 3.7513,
+    "current": 3.6281,
+    "temp": 26.22,
+    "soc": 69.176,
+    "soh": 92.086,
+    "rul_cycles": 850,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 849.0,
+    "voltage": 3.7589,
+    "current": 3.6005,
+    "temp": 26.63,
+    "soc": 69.159,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 850.0,
+    "voltage": 3.7518,
+    "current": 3.6322,
+    "temp": 26.69,
+    "soc": 69.108,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 851.0,
+    "voltage": 3.7524,
+    "current": 3.6928,
+    "temp": 26.84,
+    "soc": 69.076,
+    "soh": 92.086,
+    "rul_cycles": 852,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 852.0,
+    "voltage": 3.7552,
+    "current": 3.6637,
+    "temp": 26.81,
+    "soc": 69.057,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 853.0,
+    "voltage": 3.7525,
+    "current": 3.5819,
+    "temp": 26.79,
+    "soc": 69.008,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 854.0,
+    "voltage": 3.7485,
+    "current": 3.6991,
+    "temp": 26.52,
+    "soc": 68.962,
+    "soh": 92.086,
+    "rul_cycles": 837,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 855.0,
+    "voltage": 3.7493,
+    "current": 3.6935,
+    "temp": 26.3,
+    "soc": 68.924,
+    "soh": 92.086,
+    "rul_cycles": 837,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 856.0,
+    "voltage": 3.7484,
+    "current": 3.7178,
+    "temp": 26.61,
+    "soc": 68.888,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 857.0,
+    "voltage": 3.7479,
+    "current": 3.7446,
+    "temp": 26.89,
+    "soc": 68.857,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 858.0,
+    "voltage": 3.7497,
+    "current": 3.5291,
+    "temp": 26.97,
+    "soc": 68.801,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 859.0,
+    "voltage": 3.7578,
+    "current": 3.6494,
+    "temp": 26.84,
+    "soc": 68.816,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 860.0,
+    "voltage": 3.7498,
+    "current": 3.6839,
+    "temp": 26.78,
+    "soc": 68.786,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 861.0,
+    "voltage": 3.7492,
+    "current": 3.5364,
+    "temp": 26.78,
+    "soc": 68.729,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 862.0,
+    "voltage": 3.7512,
+    "current": 3.6229,
+    "temp": 26.59,
+    "soc": 68.705,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 863.0,
+    "voltage": 3.7471,
+    "current": 3.5525,
+    "temp": 26.68,
+    "soc": 68.646,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 864.0,
+    "voltage": 3.7532,
+    "current": 3.5826,
+    "temp": 27.05,
+    "soc": 68.633,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 865.0,
+    "voltage": 3.746,
+    "current": 3.7051,
+    "temp": 26.53,
+    "soc": 68.598,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 866.0,
+    "voltage": 3.7454,
+    "current": 3.5719,
+    "temp": 27.04,
+    "soc": 68.54,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 867.0,
+    "voltage": 3.748,
+    "current": 3.617,
+    "temp": 26.66,
+    "soc": 68.511,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 868.0,
+    "voltage": 3.7404,
+    "current": 3.4754,
+    "temp": 26.99,
+    "soc": 68.417,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 869.0,
+    "voltage": 3.7377,
+    "current": 3.626,
+    "temp": 26.45,
+    "soc": 68.345,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 870.0,
+    "voltage": 3.737,
+    "current": 3.635,
+    "temp": 26.85,
+    "soc": 68.28,
+    "soh": 92.086,
+    "rul_cycles": 839,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 871.0,
+    "voltage": 3.7399,
+    "current": 3.7991,
+    "temp": 26.59,
+    "soc": 68.265,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 872.0,
+    "voltage": 3.7526,
+    "current": 3.5566,
+    "temp": 26.46,
+    "soc": 68.278,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 873.0,
+    "voltage": 3.7535,
+    "current": 3.6211,
+    "temp": 26.79,
+    "soc": 68.301,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 874.0,
+    "voltage": 3.745,
+    "current": 3.5962,
+    "temp": 26.95,
+    "soc": 68.264,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 875.0,
+    "voltage": 3.741,
+    "current": 3.7397,
+    "temp": 26.58,
+    "soc": 68.231,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 876.0,
+    "voltage": 3.7325,
+    "current": 3.6041,
+    "temp": 26.46,
+    "soc": 68.131,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 877.0,
+    "voltage": 3.7375,
+    "current": 3.6631,
+    "temp": 26.74,
+    "soc": 68.081,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 878.0,
+    "voltage": 3.7351,
+    "current": 3.6388,
+    "temp": 26.75,
+    "soc": 68.019,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 879.0,
+    "voltage": 3.7364,
+    "current": 3.6262,
+    "temp": 26.88,
+    "soc": 67.969,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 880.0,
+    "voltage": 3.8357,
+    "current": -0.0333,
+    "temp": 26.96,
+    "soc": 67.862,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 881.0,
+    "voltage": 3.8342,
+    "current": 0.0479,
+    "temp": 26.76,
+    "soc": 67.772,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 882.0,
+    "voltage": 3.826,
+    "current": 0.0679,
+    "temp": 27.14,
+    "soc": 67.65,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 883.0,
+    "voltage": 3.8454,
+    "current": -0.0635,
+    "temp": 26.81,
+    "soc": 67.626,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 884.0,
+    "voltage": 3.8351,
+    "current": 0.0058,
+    "temp": 26.69,
+    "soc": 67.555,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 885.0,
+    "voltage": 3.8446,
+    "current": -0.0576,
+    "temp": 26.43,
+    "soc": 67.53,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 886.0,
+    "voltage": 3.8509,
+    "current": 0.0979,
+    "temp": 26.7,
+    "soc": 67.562,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 887.0,
+    "voltage": 3.8429,
+    "current": -0.1155,
+    "temp": 26.68,
+    "soc": 67.503,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 888.0,
+    "voltage": 3.8339,
+    "current": -0.0476,
+    "temp": 26.93,
+    "soc": 67.409,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 889.0,
+    "voltage": 3.8442,
+    "current": 0.0355,
+    "temp": 26.83,
+    "soc": 67.395,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 890.0,
+    "voltage": 3.8497,
+    "current": 0.1647,
+    "temp": 26.49,
+    "soc": 67.428,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 891.0,
+    "voltage": 3.8584,
+    "current": 0.0194,
+    "temp": 26.76,
+    "soc": 67.473,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 892.0,
+    "voltage": 3.8445,
+    "current": -0.0227,
+    "temp": 26.86,
+    "soc": 67.42,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 893.0,
+    "voltage": 3.8489,
+    "current": 0.1391,
+    "temp": 27.02,
+    "soc": 67.421,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 894.0,
+    "voltage": 3.8521,
+    "current": -0.1381,
+    "temp": 26.89,
+    "soc": 67.387,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 895.0,
+    "voltage": 3.8565,
+    "current": -0.152,
+    "temp": 26.86,
+    "soc": 67.375,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 896.0,
+    "voltage": 3.8655,
+    "current": 0.0571,
+    "temp": 26.71,
+    "soc": 67.445,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 897.0,
+    "voltage": 3.8477,
+    "current": -0.0033,
+    "temp": 26.77,
+    "soc": 67.387,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 898.0,
+    "voltage": 3.8584,
+    "current": -0.0968,
+    "temp": 26.94,
+    "soc": 67.378,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 899.0,
+    "voltage": 3.8567,
+    "current": 0.0509,
+    "temp": 26.42,
+    "soc": 67.38,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 900.0,
+    "voltage": 3.8615,
+    "current": -0.0215,
+    "temp": 26.61,
+    "soc": 67.391,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 901.0,
+    "voltage": 3.8591,
+    "current": -0.0549,
+    "temp": 26.52,
+    "soc": 67.376,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 902.0,
+    "voltage": 3.8625,
+    "current": -0.0775,
+    "temp": 26.74,
+    "soc": 67.373,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 903.0,
+    "voltage": 3.8551,
+    "current": 0.0581,
+    "temp": 26.91,
+    "soc": 67.348,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 904.0,
+    "voltage": 3.8596,
+    "current": 0.068,
+    "temp": 26.54,
+    "soc": 67.349,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 905.0,
+    "voltage": 3.8588,
+    "current": -0.0127,
+    "temp": 26.17,
+    "soc": 67.326,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 906.0,
+    "voltage": 3.8601,
+    "current": 0.1558,
+    "temp": 26.56,
+    "soc": 67.339,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 907.0,
+    "voltage": 3.862,
+    "current": -0.1143,
+    "temp": 26.82,
+    "soc": 67.31,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 908.0,
+    "voltage": 3.8674,
+    "current": -0.1199,
+    "temp": 26.74,
+    "soc": 67.311,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 909.0,
+    "voltage": 3.8643,
+    "current": -0.1301,
+    "temp": 26.71,
+    "soc": 67.288,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 910.0,
+    "voltage": 3.8693,
+    "current": -0.0083,
+    "temp": 26.57,
+    "soc": 67.313,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 911.0,
+    "voltage": 3.8634,
+    "current": -0.0213,
+    "temp": 26.36,
+    "soc": 67.294,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 912.0,
+    "voltage": 3.8564,
+    "current": 0.0109,
+    "temp": 26.71,
+    "soc": 67.241,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 913.0,
+    "voltage": 3.8709,
+    "current": 0.0476,
+    "temp": 26.44,
+    "soc": 67.28,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 914.0,
+    "voltage": 3.8641,
+    "current": -0.0885,
+    "temp": 27.04,
+    "soc": 67.247,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 915.0,
+    "voltage": 3.8601,
+    "current": 0.1535,
+    "temp": 26.71,
+    "soc": 67.234,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 916.0,
+    "voltage": 3.8641,
+    "current": -0.0303,
+    "temp": 26.47,
+    "soc": 67.211,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 917.0,
+    "voltage": 3.8719,
+    "current": 0.1331,
+    "temp": 26.46,
+    "soc": 67.26,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 918.0,
+    "voltage": 3.8565,
+    "current": 0.0507,
+    "temp": 26.56,
+    "soc": 67.196,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 919.0,
+    "voltage": 3.8831,
+    "current": 0.0306,
+    "temp": 26.52,
+    "soc": 67.285,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 920.0,
+    "voltage": 3.8174,
+    "current": 2.1353,
+    "temp": 26.79,
+    "soc": 67.344,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 921.0,
+    "voltage": 3.8129,
+    "current": 2.0694,
+    "temp": 26.6,
+    "soc": 67.355,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 922.0,
+    "voltage": 3.8106,
+    "current": 2.0921,
+    "temp": 26.41,
+    "soc": 67.353,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 923.0,
+    "voltage": 3.8102,
+    "current": 2.1524,
+    "temp": 26.93,
+    "soc": 67.357,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 924.0,
+    "voltage": 3.8132,
+    "current": 2.0638,
+    "temp": 26.56,
+    "soc": 67.362,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 925.0,
+    "voltage": 3.8122,
+    "current": 2.0916,
+    "temp": 26.7,
+    "soc": 67.363,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 926.0,
+    "voltage": 3.8129,
+    "current": 2.0847,
+    "temp": 26.42,
+    "soc": 67.365,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 927.0,
+    "voltage": 3.8068,
+    "current": 2.17,
+    "temp": 26.61,
+    "soc": 67.346,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 928.0,
+    "voltage": 3.8093,
+    "current": 2.016,
+    "temp": 26.6,
+    "soc": 67.317,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 929.0,
+    "voltage": 3.8037,
+    "current": 2.1911,
+    "temp": 26.16,
+    "soc": 67.289,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 930.0,
+    "voltage": 3.8069,
+    "current": 2.0126,
+    "temp": 26.93,
+    "soc": 67.253,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 931.0,
+    "voltage": 3.8161,
+    "current": 1.9536,
+    "temp": 26.79,
+    "soc": 67.263,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 932.0,
+    "voltage": 3.8096,
+    "current": 2.0237,
+    "temp": 26.45,
+    "soc": 67.245,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 933.0,
+    "voltage": 3.7932,
+    "current": 2.0051,
+    "temp": 26.3,
+    "soc": 67.133,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 934.0,
+    "voltage": 3.8074,
+    "current": 2.0943,
+    "temp": 26.59,
+    "soc": 67.134,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 935.0,
+    "voltage": 3.8079,
+    "current": 2.0588,
+    "temp": 26.53,
+    "soc": 67.13,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 936.0,
+    "voltage": 3.8059,
+    "current": 2.0484,
+    "temp": 26.58,
+    "soc": 67.111,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 937.0,
+    "voltage": 3.8068,
+    "current": 1.9128,
+    "temp": 26.55,
+    "soc": 67.076,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 938.0,
+    "voltage": 3.8109,
+    "current": 2.0567,
+    "temp": 26.61,
+    "soc": 67.093,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 939.0,
+    "voltage": 3.8138,
+    "current": 1.8462,
+    "temp": 26.79,
+    "soc": 67.086,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 940.0,
+    "voltage": 3.8031,
+    "current": 1.9482,
+    "temp": 26.61,
+    "soc": 67.035,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 941.0,
+    "voltage": 3.8035,
+    "current": 2.1271,
+    "temp": 26.29,
+    "soc": 67.024,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 942.0,
+    "voltage": 3.7961,
+    "current": 2.1307,
+    "temp": 26.77,
+    "soc": 66.972,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 943.0,
+    "voltage": 3.7944,
+    "current": 2.1271,
+    "temp": 26.82,
+    "soc": 66.917,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 944.0,
+    "voltage": 3.8008,
+    "current": 2.0022,
+    "temp": 27.12,
+    "soc": 66.884,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 945.0,
+    "voltage": 3.8059,
+    "current": 2.0647,
+    "temp": 26.26,
+    "soc": 66.894,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 946.0,
+    "voltage": 3.8058,
+    "current": 2.0196,
+    "temp": 26.53,
+    "soc": 66.892,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 947.0,
+    "voltage": 3.8057,
+    "current": 1.9446,
+    "temp": 26.06,
+    "soc": 66.875,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 948.0,
+    "voltage": 3.8007,
+    "current": 2.1785,
+    "temp": 26.59,
+    "soc": 66.871,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 949.0,
+    "voltage": 3.8005,
+    "current": 2.1338,
+    "temp": 26.36,
+    "soc": 66.856,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 950.0,
+    "voltage": 3.7967,
+    "current": 2.0153,
+    "temp": 26.86,
+    "soc": 66.801,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 951.0,
+    "voltage": 3.8012,
+    "current": 2.1237,
+    "temp": 26.31,
+    "soc": 66.797,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 952.0,
+    "voltage": 3.8022,
+    "current": 2.1159,
+    "temp": 26.13,
+    "soc": 66.796,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 953.0,
+    "voltage": 3.8065,
+    "current": 1.913,
+    "temp": 26.37,
+    "soc": 66.783,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 954.0,
+    "voltage": 3.8045,
+    "current": 2.0433,
+    "temp": 26.07,
+    "soc": 66.781,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 955.0,
+    "voltage": 3.8027,
+    "current": 2.0014,
+    "temp": 26.61,
+    "soc": 66.76,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 956.0,
+    "voltage": 3.8013,
+    "current": 1.9574,
+    "temp": 26.04,
+    "soc": 66.726,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 957.0,
+    "voltage": 3.803,
+    "current": 2.0407,
+    "temp": 26.46,
+    "soc": 66.719,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 958.0,
+    "voltage": 3.7927,
+    "current": 2.2115,
+    "temp": 26.03,
+    "soc": 66.682,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 959.0,
+    "voltage": 3.7905,
+    "current": 2.0815,
+    "temp": 26.38,
+    "soc": 66.615,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 960.0,
+    "voltage": 3.8013,
+    "current": 1.8387,
+    "temp": 26.77,
+    "soc": 66.578,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 961.0,
+    "voltage": 3.7957,
+    "current": 1.918,
+    "temp": 26.51,
+    "soc": 66.527,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 962.0,
+    "voltage": 3.794,
+    "current": 1.9403,
+    "temp": 26.27,
+    "soc": 66.476,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 963.0,
+    "voltage": 3.7974,
+    "current": 1.9285,
+    "temp": 26.43,
+    "soc": 66.449,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 964.0,
+    "voltage": 3.7957,
+    "current": 1.8705,
+    "temp": 26.44,
+    "soc": 66.404,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 965.0,
+    "voltage": 3.7994,
+    "current": 1.8715,
+    "temp": 26.53,
+    "soc": 66.386,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 966.0,
+    "voltage": 3.7884,
+    "current": 1.9459,
+    "temp": 26.16,
+    "soc": 66.319,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 967.0,
+    "voltage": 3.7993,
+    "current": 1.8742,
+    "temp": 26.54,
+    "soc": 66.309,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 968.0,
+    "voltage": 3.7969,
+    "current": 1.9599,
+    "temp": 25.88,
+    "soc": 66.3,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 969.0,
+    "voltage": 3.7931,
+    "current": 1.8882,
+    "temp": 26.29,
+    "soc": 66.256,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 970.0,
+    "voltage": 3.7994,
+    "current": 1.9871,
+    "temp": 26.32,
+    "soc": 66.268,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 971.0,
+    "voltage": 3.8039,
+    "current": 1.8215,
+    "temp": 26.54,
+    "soc": 66.273,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 972.0,
+    "voltage": 3.787,
+    "current": 1.9791,
+    "temp": 26.42,
+    "soc": 66.207,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 973.0,
+    "voltage": 3.7933,
+    "current": 1.925,
+    "temp": 26.13,
+    "soc": 66.175,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 974.0,
+    "voltage": 3.789,
+    "current": 2.0099,
+    "temp": 26.21,
+    "soc": 66.137,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 975.0,
+    "voltage": 3.7938,
+    "current": 1.786,
+    "temp": 26.45,
+    "soc": 66.091,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 976.0,
+    "voltage": 3.7972,
+    "current": 2.0004,
+    "temp": 26.39,
+    "soc": 66.106,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 977.0,
+    "voltage": 3.7952,
+    "current": 1.9179,
+    "temp": 26.28,
+    "soc": 66.09,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 978.0,
+    "voltage": 3.7964,
+    "current": 1.786,
+    "temp": 26.3,
+    "soc": 66.058,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 979.0,
+    "voltage": 3.7872,
+    "current": 1.7666,
+    "temp": 26.53,
+    "soc": 65.975,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 980.0,
+    "voltage": 3.7998,
+    "current": 1.8392,
+    "temp": 26.29,
+    "soc": 65.985,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 981.0,
+    "voltage": 3.7886,
+    "current": 1.9238,
+    "temp": 26.37,
+    "soc": 65.943,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 982.0,
+    "voltage": 3.7947,
+    "current": 1.9479,
+    "temp": 26.82,
+    "soc": 65.942,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 983.0,
+    "voltage": 3.7979,
+    "current": 1.8186,
+    "temp": 26.1,
+    "soc": 65.936,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 984.0,
+    "voltage": 3.8019,
+    "current": 1.8639,
+    "temp": 26.01,
+    "soc": 65.957,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 985.0,
+    "voltage": 3.7837,
+    "current": 2.0763,
+    "temp": 26.54,
+    "soc": 65.906,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 986.0,
+    "voltage": 3.7757,
+    "current": 1.9675,
+    "temp": 26.24,
+    "soc": 65.798,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 987.0,
+    "voltage": 3.7943,
+    "current": 1.9013,
+    "temp": 26.31,
+    "soc": 65.799,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 988.0,
+    "voltage": 3.803,
+    "current": 1.8839,
+    "temp": 26.22,
+    "soc": 65.841,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 989.0,
+    "voltage": 3.7998,
+    "current": 1.8969,
+    "temp": 26.32,
+    "soc": 65.859,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 990.0,
+    "voltage": 3.7933,
+    "current": 1.9124,
+    "temp": 26.69,
+    "soc": 65.836,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 991.0,
+    "voltage": 3.7931,
+    "current": 1.7951,
+    "temp": 26.53,
+    "soc": 65.794,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 992.0,
+    "voltage": 3.7978,
+    "current": 1.7933,
+    "temp": 26.54,
+    "soc": 65.783,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 993.0,
+    "voltage": 3.7918,
+    "current": 1.7261,
+    "temp": 26.08,
+    "soc": 65.726,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 994.0,
+    "voltage": 3.7944,
+    "current": 1.9194,
+    "temp": 26.13,
+    "soc": 65.723,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 995.0,
+    "voltage": 3.7938,
+    "current": 1.9033,
+    "temp": 25.79,
+    "soc": 65.712,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 996.0,
+    "voltage": 3.7988,
+    "current": 1.8389,
+    "temp": 26.19,
+    "soc": 65.717,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 997.0,
+    "voltage": 3.8026,
+    "current": 2.0132,
+    "temp": 26.54,
+    "soc": 65.769,
+    "soh": 92.086,
+    "rul_cycles": 832,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 998.0,
+    "voltage": 3.7966,
+    "current": 1.7695,
+    "temp": 26.45,
+    "soc": 65.735,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  },
+  {
+    "timestamp": 999.0,
+    "voltage": 3.7924,
+    "current": 1.7632,
+    "temp": 26.3,
+    "soc": 65.68,
+    "soh": 92.086,
+    "rul_cycles": 829,
+    "status": "NORMAL"
+  }
+]
