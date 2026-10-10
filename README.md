@@ -88,7 +88,28 @@ $$P_{rls} \leftarrow \frac{1}{\lambda} (1 - K_{rls} \phi_k) P_{rls}$$
 
 ## 🚀 Quickstart & Usage
 
-### 1. Run the Full 1,000-Step Synthetic Benchmark
+### 1. Launch the Interactive Real-Time Web Cockpit (Browser)
+You can run the full digital twin with live streaming charts and an interactive battery parameter configuration panel directly in your browser:
+
+1. **Start the local server**:
+   ```bash
+   python server.py 8000
+   # or with virtual environment:
+   ./.venv/bin/python server.py 8000
+   ```
+2. **Open your browser** and navigate to:
+   ```
+   http://localhost:8000
+   ```
+3. **Interactive Features Available in Browser**:
+   - **Custom Battery State Setup**: Use sliders/inputs to set initial State of Charge (SOC), State of Health (SOH), Chemistry (NMC or LFP), Cycle Count, Load Current, Temperature, and Ohmic Resistance ($R_0$).
+   - **Apply & Simulate**: Click **`🚀 Apply Parameters & Restart Simulation`** to test how the digital twin tracks your custom battery configuration.
+   - **Live Telemetry Stripcharts**: View real-time streaming charts for Terminal Voltage & Current, EKF SOC vs Ground Truth, SOH Capacity Fade & $R_0$, and RUL decay.
+   - **Controls & Fault Injection**: Pause, Resume, Single-step (+1s), change speed ($0.5\times$ to $10\times$), or inject faults (Thermal Overheat, Deep Overdischarge) to test ISO 26262 / UL 1973 safety supervisor triggers.
+
+---
+
+### 2. Run the Full 1,000-Step Synthetic Benchmark (CLI)
 ```bash
 python battery_digital_twin.py --mode synthetic --steps 1000 --chemistry NMC
 ```
@@ -98,7 +119,7 @@ Output:
 - Generates `digital_twin_telemetry.json` (Structured JSON outputs for all steps).
 - Generates `battery_digital_twin_simulation.png` (4-subplot engineering visualization).
 
-### 2. Ingest Custom CSV Telemetry
+### 3. Ingest Custom CSV Telemetry
 ```bash
 python battery_digital_twin.py --mode csv --csv path/to/your_battery_data.csv
 ```
@@ -141,4 +162,5 @@ python -m unittest test_battery_digital_twin.py
 - `soh_estimator.py`: Capacity fade model and online RLS ohmic resistance ($R_0$) tracker.
 - `rul_predictor.py`: Analytical degradation extrapolator and TinyML Random Forest regressor.
 - `battery_digital_twin.py`: Master orchestrator, simulator, data pipelines, CLI, and visualization harness.
+- `server.py`: Interactive real-time HTTP server and browser dashboard on port 8000.
 - `test_battery_digital_twin.py`: Automated test suite verifying convergence, stability, and safety.
